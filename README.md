@@ -6,8 +6,7 @@ It also creates some demo HTML files that use the stack with different embedding
 
 SVG Stacker is based on NODE.js.
 
-The project contains two example stacks based icons of the famous [Tango Icon Library](http://tango.freedesktop.org/Tango_Icon_Library)
-and the popular [Iconic icon set by P.J. Onori](http://somerandomdude.com/work/iconic/).
+The project contains three example stacks based icons of the famous [Tango Icon Library](http://tango.freedesktop.org/Tango_Icon_Library), the popular [Iconic icon set by P.J. Onori](http://somerandomdude.com/work/iconic/) and files from wikipedia.
 
 I created SVG Stacker to explore the power of the SVG Stack concept and test filesize, performance and browser-support.
 
@@ -27,11 +26,11 @@ The ':target'-technique was first introduced by [@erikdahlstrom](https://twitter
 Background
 -----------
 
-We decided to work with SVG for a recent mobile website project. It is an open standrad, the SVG format is [widly supported by browsers](http://caniuse.com/#search=svg) and leads to great visual results, especially when it comes to devices with different pixel densities.
+We decided to work with SVG for a recent mobile website project. It is an open standard, it is [widly supported by browsers](http://caniuse.com/#search=svg) and leads to great visual results, especially when it comes to devices with different pixel densities.
 
 **"SVG-Stacks are the new Imagesprites." – Are they?**
 
-There are pros and cons. Here is a list of things we thought about so far:
+There are pros and cons. Here is a list of things we thought about so far and would like to discuss:
 
 1.  Support for colors
 
@@ -63,7 +62,7 @@ There are pros and cons. Here is a list of things we thought about so far:
      But for Developers it might feel more natural to work with SVG Stacks as
 
 
-3.  SVG-Stacks behave like raster-images 
+3.  SVG Stacks behave like raster-images 
 
     ```
     <img src="stack.svg#flowers">
@@ -82,11 +81,3 @@ There are pros and cons. Here is a list of things we thought about so far:
 5.  Slow?
 
     Test the examples: Some browser need an extensive rendering time.
-
-
-
-Related
------------
-
-* [Raphaël Icons](http://raphaeljs.com/icons/)
-* [Icomoon](http://keyamoon.com/icomoon/app/)
