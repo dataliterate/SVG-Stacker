@@ -72,7 +72,7 @@ There are pros and cons. Here is a list of things we thought about so far and wo
 
 4.  Animation
 
-    See soccer-ball in [Example](examples/wikimedia/commons/stack/stack-demo-all.html)
+    See soccer-ball in [Example](http://preciousforever.github.com/SVG-Stacker/examples/wikimedia/commons/stack/stack-demo-all.html)
 
 4.  Not yet available on Webkit
 
