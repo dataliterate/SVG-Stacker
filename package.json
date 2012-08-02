@@ -1,0 +1,16 @@
+{
+  "name": "svg-stacker",
+  "version": "0.0.1",
+  "homepage": "https://github.com/preciousforever/SVG-Stacker",
+  "author": {
+    "name": "Michael Schieben",
+    "email": "michael@precious-forever.com",
+    "url": "http://rockitbaby.de"
+  },
+  "engines": {
+    "node": "0.6.x"
+  },
+  "dependencies": {
+    "libxmljs-easy": "0.1.x"
+  }
+}

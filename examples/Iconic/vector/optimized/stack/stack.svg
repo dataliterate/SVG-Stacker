@@ -1,0 +1,856 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+<![CDATA[
+.i { display: none; fill: #010101; }
+.i:target { display: block; }
+]]>
+</style>
+<svg  style="enable-background:new 0 0 18.663 32" xml:space="preserve" height="32px" width="19px" version="1.1" y="0px" x="0px" viewBox="0 0 18.663 32" class="i" id="ampersand">
+	<path d="m9.2 32c-2.4 0-4.7-0.9-6.5-2.7-3.6-3.6-3.6-9.4 0-13l8.1-7.9c0.46-0.46 0.73-1.1 0.73-1.8 0-0.68-0.27-1.3-0.74-1.8-1.2-0.7-2.8-0.7-3.8 0.2-1 1-1 2.7 0 3.6l-2.8 2.7c-2.6-2.4-2.6-6.5 0-9.1s6.7-2.6 9.3-0.004c1.2 1.2 1.9 2.9 1.9 4.6 0 1.8-0.68 3.4-1.9 4.6l-8.1 7.9c-2 2-2 5.3 0.02 7.4 2 2 5.3 2 7.4 0 2-2 2-5.3 0-7.4l-1.4-1.4 4.4-4.3 2.8 2.8-1.7 1.7c2.3 3.6 1.9 8.4-1.3 11-2 1-4 2-6.8 2z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="aperture">
+	<g fill="#010101">
+		<path d="m21 14l5.7-9.7c-3-2.6-7-4.3-11-4.3-1 0-2 0.12-2.9 0.29l8 14z"/>
+		<path d="m20 20h11c1-1 1-3 1-4 0-3.9-1.4-7.4-3.7-10l-8 14z"/>
+		<path d="m16 10l-5.4-9.2c-4.4 1.5-8 4.8-9.8 9.2h15z"/>
+		<path d="m16 22l5.4 9.1c4.4-1.5 8-4.8 9.8-9.1h-15z"/>
+		<path d="m12 12h-11c-0.77 1-1 3-1 4 0 3.9 1.4 7.4 3.8 10l8.2-14z"/>
+		<path d="m11 18l-5.7 9.8c2.7 2 6.7 4 11 4 1 0 2.1-0.12 3-0.3l-8-14z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="aperture_alt">
+	<g fill="#010101">
+		<path d="m30 9l-10 10h11c1-1 1-2 1-3 0-3-1-5-2-7z"/>
+		<path d="m21 15l8.2-8.2c-2-2.9-4.8-5-8.2-6.1v14z"/>
+		<path d="m17 21l8.2 8.2c2.9-1.9 5-4.8 6.2-8.2h-14z"/>
+		<path d="m19 12v-12c-1 0.12-2 0-3 0-2.6 0-4.9 0.65-7.1 1.7l10 10z"/>
+		<path d="m13 20v11c1 1 2 1 3 1 2.5 0 4.9-0.64 7-1.7l-10-10z"/>
+		<path d="m11 17l-8.2 8c1.9 2.9 4.8 5 8.2 6.1v-14z"/>
+		<path d="m0.3 13c-0.18 1-0.3 2-0.3 3 0 2.5 0.64 4.9 1.7 7l10-10h-12z"/>
+		<path d="m7 2.8c-2.9 1.9-5 4.8-6.1 8.2h14l-8-8.2z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="arrow_down">
+	<path d="m32 16l-5.7-5.7-6.3 6.3v-16h-8v17l-6.3-6.3-5.7 5 16 16 16-16z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="arrow_down_alt1">
+	<path d="m32 16c0-8.8-7-16-16-16s-16 7.2-16 16c0 9 7.2 16 16 16s16-7 16-16zm-24 0h6v-8h4v8h6l-8 8-8-8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="arrow_down_alt2">
+	<path d="m32 16c0-8.8-7.2-16-16-16s-16 7.2-16 16 7.2 16 16 16 16-7 16-16zm-20 6h2v-16h4v16h2l-4 4-4-4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="arrow_left">
+	<path d="m16 32l5.7-5.7-6.3-6.3h16v-8h-17l6.3-6.3-5-5.7-16 16 16 16z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="arrow_left_alt1">
+	<path d="m16 32c8.8 0 16-7.2 16-16s-7-16-16-16-16 7.2-16 16c0 9 7.2 16 16 16zm0-24v6h8v4h-8v6l-8-8 8-8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="arrow_left_alt2">
+	<path d="m16 32c8.8 0 16-7.2 16-16s-7-16-16-16-16 7.2-16 16 7.2 16 16 16zm-6-20v2h16v4h-16v2l-4-4 4-4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="arrow_right">
+	<path d="m16 0l-5.7 5.7 6.3 6.3h-16v8h17l-6.3 6.3 5 6 16-16-16-16z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="arrow_right_alt1">
+	<path d="m16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16zm0 24v-6h-8v-4h8v-6l8 8-8 8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="arrow_right_alt2">
+	<path d="m16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16zm6 20v-2h-16v-4h16v-2l4 4-4 4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="arrow_up">
+	<path d="m0 16l5.7 5.7 6.3-6.3v16h8v-17l6.3 6.3 6-5-16-16-16 16z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="arrow_up_alt1">
+	<path d="m0 16c0 8.8 7.2 16 16 16 9 0 16-7 16-16 0-8.8-7.2-16-16-16s-16 7.2-16 16zm24 0h-6v8h-4v-8h-6l8-8 8 8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="arrow_up_alt2">
+	<path d="m0 16c0 8.8 7.2 16 16 16s16-7.2 16-16-7-16-16-16-16 7.2-16 16zm20-6h-2v16h-4v-16h-2l4-4 4 4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="article">
+	<g fill="#010101">
+		<polygon points="32 4 0 4 0 0 32 0"/>
+		<polygon points="20 12 0 12 0 8 20 8"/>
+		<polygon points="32 24 0 24 0 20 32 20"/>
+		<polygon points="24 32 0 32 0 28 24 28"/>
+		<path d="m32 30c0 1.1-0.9 2-2 2s-2-0.9-2-2 0.9-2 2-2c1 0 2 1 2 2z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="at">
+	<path d="m30 24c1-2 2-5 2-8 0-8.8-7.2-16-16-16s-16 7.2-16 16 7.2 16 16 16c4.4 0 8.4-1.8 11-4.7l-3-3c-2 3-5 4-8 4-6.6 0-12-5-12-12s5.4-12 12-12 12 5.4 12 12c0 1.4-0.27 2.8-0.73 4h-3v-12h-8c-4.4 0-8 3.6-8 8s3.6 8 8 8c1.8 0 3.5-0.64 4.9-1.7 1 1 2 2 3 2h6zm-10-10v2c0 2.2-1.8 4-4 4s-4-1.8-4-4 1.8-4 4-4h4v2z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 16 32" xml:space="preserve" height="32px" width="16px" version="1.1" y="0px" x="0px" viewBox="0 0 16 32" class="i" id="award_fill">
+	<g fill="#010101">
+		<path d="m8 20c-1.4 0-2.7-0.29-4-0.74v13l4-4 4 4v-13c-1 1-2.6 1-4 1z"/>
+		<circle cx="8" r="8" cy="8"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 16 32" xml:space="preserve" height="32px" width="16px" version="1.1" y="0px" x="0px" viewBox="0 0 16 32" class="i" id="award_stroke">
+	<g fill="#010101">
+		<path d="m8 20c-1.4 0-2.7-0.29-4-0.73v13l4-4 4 4v-13c-1 1-2.6 1-4 1z"/>
+		<path d="m8 0c-4.4 0-8 3.6-8 8s3.6 8 8 8 8-3.6 8-8-4-8-8-8zm0 12c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-2 4-4 4z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="bars">
+	<g fill="#010101">
+		<rect x="24" height="32" width="8"/>
+		<rect height="24" width="8" y="8" x="12"/>
+		<rect y="16" width="8" height="16"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 28 32" xml:space="preserve" height="32px" width="28px" version="1.1" y="0px" x="0px" viewBox="0 0 28 32" class="i" id="bars_alt">
+	<g fill="#010101">
+		<rect x="24" height="32" width="4"/>
+		<rect height="24" width="4" y="8" x="16"/>
+		<rect height="16" width="4" y="16" x="8"/>
+		<rect y="24" width="4" height="8"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 16" xml:space="preserve" height="16px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 16" class="i" id="battery_charging">
+	<path d="m28 4v-2c0-1.1-0.9-2-2-2h-24c-1.1 0-2 0.9-2 2v4h6.4c0.82-2.3 3-4 5.6-4v2h4v2h-4v4h4.1v2h-4v2c-2.6 0-4.8-1.7-5.6-4h-6.4v4c0 1.1 0.9 2 2 2h24c1.1 0 2-0.9 2-2v-2h4v-8h-4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 16" xml:space="preserve" height="16px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 16" class="i" id="battery_empty">
+	<path d="m32 4h-4v-2c0-1.1-0.9-2-2-2h-24c-1.1 0-2 0.9-2 2v12c0 1.1 0.9 2 2 2h24c1.1 0 2-0.9 2-2v-2h4v-8zm-8 8h-20v-8h20v8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 16" xml:space="preserve" height="16px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 16" class="i" id="battery_full">
+	<path d="m32 4h-4v-2c0-1.1-0.9-2-2-2h-24c-1.1 0-2 0.9-2 2v12c0 1.1 0.9 2 2 2h24c1.1 0 2-0.9 2-2v-2h4v-8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 16" xml:space="preserve" height="16px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 16" class="i" id="battery_half">
+	<path d="m32 4h-4v-2c0-1.1-0.9-2-2-2h-24c-1.1 0-2 0.9-2 2v12c0 1.1 0.9 2 2 2h24c1.1 0 2-0.9 2-2v-2h4v-8zm-8 8h-8v-8h8v8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 16 32" xml:space="preserve" height="32px" width="16px" version="1.1" y="0px" x="0px" viewBox="0 0 16 32" class="i" id="beaker">
+	<path d="m14 0h-12c-1.1 0-2 0.9-2 2v22c0 4.4 3.6 8 8 8s8-3.6 8-8v-22c0-1.1-1-2-2-2zm-4 24c-1.1 0-2-0.9-2-2s0.9-2 2-2 2 0.9 2 2-1 2-2 2zm2-8h-1.9c-0.016-1.1-0.91-2-2-2s-2 0.9-2 2h-2v-12h8v12z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 16 32" xml:space="preserve" height="32px" width="16px" version="1.1" y="0px" x="0px" viewBox="0 0 16 32" class="i" id="beaker_alt">
+	<g fill="#010101">
+		<circle cx="9" r=".97" cy="9"/>
+		<path d="m14 0h-12c-1.1 0-2 0.9-2 2v22c0 4.4 3.6 8 8 8s8-3.6 8-8v-22c0-1.1-1-2-2-2zm-9 20c-0.54 0-0.97-0.43-0.97-0.97s0.43-0.97 0.97-0.97 1 0 1 1-0.4 1-1 1zm5 4c-1.1 0-2-0.9-2-2s0.9-2 2-2 2 0.9 2 2-1 2-2 2zm2-8h-1.9c-0.016-1.1-0.91-2-2-2s-2 0.9-2 2h-2v-12h8v12z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="bolt">
+	<polygon points="32 0 8 16 14 20 0 32 24 20 18 16" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 28 32" xml:space="preserve" height="32px" width="28px" version="1.1" y="0px" x="0px" viewBox="0 0 28 32" class="i" id="book">
+	<path d="m4 0c-2.2 0-4 1.8-4 4v24c0 2.2 1.8 4 4 4h24v-32h-24zm20 28h-16v-24h4v8l4-4 4 4v-8h4v24z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="book_alt">
+	<g fill="#010101">
+		<rect height="4" width="8" y="8" x="12"/>
+		<path d="m28 8l4-4h-4v-4h-24c-2.2 0-4 1.8-4 4v24c0 2.2 1.8 4 4 4h24v-20h4l-4-4zm-4 20h-16v-24h16v24z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 28" xml:space="preserve" height="28px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 28" class="i" id="book_alt2">
+	<path d="m16 4s-4-4-16-4v24c12 0 16 4 16 4s3.9-4 16-4v-24c-12 0-16 4-16 4zm-12 0c5.1 0.43 8.2 1.6 10 2.6v16c-1.8-0.95-4.9-2.1-10-2.6v-16zm24 16c-5.1 0.43-8.2 1.6-10 2.6v-16c2-1.4 5-2.6 10-3v16z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="box">
+	<g fill="#010101">
+		<rect y="12" width="32" height="20"/>
+		<polygon points="18 8 32 8 28 0 18 0"/>
+		<polygon points="14 0 4 0 0 8 14 8"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 31.998 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.998 32" class="i" id="brush">
+		<path d="m16 21c0-2.9-2.4-5.3-5.3-5.3s-5.3 2.4-5.3 5.3l0.004 0.004c-0.4 4-2.5 8-5.7 10l0.016 0.02c1.6 0 3.4 1 5.3 1 5.7 0 11-5 11-11z" fill="#010101"/>
+			<path d="m31 1.2c-1.6-1.6-4.1-1.6-5.7 0l-11 12c2.6 0.94 4.7 3 5.7 5.7l11-11c1-2.7 1-5.3 0-6.8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 31.998 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.998 32" class="i" id="brush_alt">
+	<g fill="#010101">
+		<path d="m12 24c0-2.2-1.8-4-4-4s-4 1.8-4 4v0.008c0 3-1.6 5.5-4 6.9l0.016 0.012c1.2 1 2.5 1 4 1 4.4 0 8-4 8-8z"/>
+		<path d="m31 1.2c-1.6-1.6-4.1-1.6-5.7 0l-15 15c2.8 0.74 4.9 2.9 5.7 5.7l15-15c1-1.7 1-4.3 0-5.8z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="calendar">
+	<g fill="#010101">
+		<polygon points="24 4 24 0 20 0 20 4 12 4 12 0 7.9 0 7.9 4 0 4 0 8 7.9 8 12 8 20 8 24 8 32 8 32 4"/>
+		<rect height="4" width="24" y="20" x="4"/>
+		<rect height="4" width="24" y="12" x="4"/>
+		<polygon points="24 32 4 32 4 28 28 28"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="calendar_alt_fill">
+	<g fill="#010101">
+		<path d="m26 4v2c0 2.2-1.8 4-4 4s-4-1.8-4-4v-2h-4v2c0 2.2-1.8 4-4 4s-4-1.8-4-4v-2h-6v28h32v-28h-6zm-16 24h-4v-4h4v4zm0-8h-4v-4h4v4zm8 8h-4v-4h4v4zm0-8h-4v-4h4v4zm4 8v-4h4l-4 4zm4-8h-4v-4h4v4z"/>
+		<path d="m8 6v-4c0-1.1 0.9-2 2-2s2 0.9 2 2v4c0 1.1-0.9 2-2 2s-2-0.9-2-2z"/>
+		<path d="m20 6v-4c0-1.1 0.9-2 2-2s2 0.9 2 2v4c0 1.1-0.9 2-2 2s-2-0.9-2-2z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="calendar_alt_stroke">
+	<g fill="#010101">
+		<polygon points="32 32 0 32 0 4 4 4 4 28 28 28 28 4 32 4"/>
+		<rect height="4" width="4" y="12" x="6"/>
+		<rect height="4" width="4" y="12" x="14"/>
+		<rect height="4" width="4" y="12" x="22"/>
+		<rect height="4" width="4" y="20" x="6"/>
+		<rect height="4" width="4" y="20" x="14"/>
+		<polygon points="22 24 22 20 26 20"/>
+		<path d="m8 6v-4c0-1.1 0.9-2 2-2s2 0.9 2 2v4c0 1.1-0.9 2-2 2s-2-0.9-2-2z"/>
+		<path d="m20 6v-4c0-1.1 0.9-2 2-2s2 0.9 2 2v4c0 1.1-0.9 2-2 2s-2-0.9-2-2z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="camera">
+	<g fill="#010101">
+		<circle cx="20" r="4" cy="20"/>
+		<path d="m28 8l-3.3-6.6c-1-0.83-1-1.4-2-1.4h-6c-0.89 0-1.6 0.58-1.9 1.4l-3 6.6h-8c-2.2 0-4 1.8-4 4v20h32v-20c0-2.2-2-4-4-4zm-22 8c-1.1 0-2-0.9-2-2s0.9-2 2-2 2 0.9 2 2-0.9 2-2 2zm14 12c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-4 8-8 8z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="cd">
+			<path d="m16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16zm0 20c-2.2 0-4-1.8-4-4s1.8-4 4-4c2 0 4 2 4 4s-2 4-4 4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 31.998 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.998 32" class="i" id="chart">
+	<g fill="#010101">
+		<path d="m14 19l-10-10c-5 5.8-5 14 0 20l10-10z"/>
+		<path d="m20 4.2v15l-10 10c2.3 1.7 5.2 2.8 8.3 2.8 7.8 0 14-6.3 14-14 0-7-5-13-12-14z"/>
+		<path d="m16 16v-16c-4 0.27-8.3 1.9-12 4.5l12 12z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 30 32" xml:space="preserve" height="32px" width="30px" version="1.1" y="0px" x="0px" viewBox="0 0 30 32" class="i" id="chart_alt">
+	<g fill="#010101">
+		<path d="m15 19l-11-10c-5.3 6.1-5.3 15 0 21l11-11z"/>
+		<path d="m16 18v-18c-5 0.3-9.3 2.2-13 5.1l13 13z"/>
+		<path d="m18 4v15l-10 10c1.9 2 5 3 8 3 8 0 14-6 14-14 0-7-5-13-12-14z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="chat">
+	<path d="m24 12v-4c0-5.5-4-8-8-8h-8c-4 0-8 2.1-8 8 0 5.8 4 8 8 8h0.93c-0.57 1.1-0.93 2.4-0.93 4v4c0 4.4 3.6 8 8 8 0-2.2 1.8-4 4-4h4c4 0 8-2 8-8s-4-8-8-8zm-16 0c-4 0-4-3-4-4 0-1.2 0-4 4-4h8c1.5 0 4 0.52 4 4v4c0 1.3-0.63 2.5-1.6 3.2-1-2-3-3-6-3h-4zm16 12h-4c-2.6 0-4.9 1.3-6.4 3.2-1-1-2-2-2-3v-4c0-1.8 0.91-2.9 1.8-3.5 1 1 2 2 2 4 3 0 5.5-1.6 6.9-4l-0.004 0.002h1c4 0 4 3 4 4s0 4-4 4zm0-10c-0.027 0.092-0.059 0.18-0.086 0.27z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="chat_alt_fill">
+			<path d="m24 12c0 4.4-3.6 8-8 8 0-2.2-1.8-4-4-4h-4c-4 0-8-2-8-8 0-5.9 4-8 8-8h8c4 0 8 2.5 8 8v4z" fill="#010101"/>
+		<path d="m12 12" fill="#010101"/>
+		<path d="m12 12" fill="#010101"/>
+				<path d="m26 12c0 6-5 10-10 10h-2v-2c0-1.1-0.9-2-2-2h-3.8c-0.12 0.62-0.2 1.3-0.2 2v4c0 4.4 3.6 8 8 8 0-2.2 1.8-4 4-4h4c4 0 8-2 8-8 0-5-3-7-6-8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="chat_alt_stroke">
+			<path d="m26 12c-0.027 1.4-0.34 2.7-0.88 3.9 3 1 3 3 3 4 0 0.99 0 4-4 4h-4c-2.6 0-4.9 1.3-6.4 3.2-1-1-2-2-2-3v-4c0-0.79 0.14-1.4 0.36-1.9h-3.8c-0.13 0.62-0.2 1.3-0.2 2v4c0 4.4 3.6 8 8 8 0-2.2 1.8-4 4-4h4c4 0 8-2 8-8 0-5-3-7-6-8z" fill="#010101"/>
+		<path d="m16 4c1.5 0 4 0.52 4 4v4c0 1.3-0.63 2.5-1.6 3.2-1-2-3-3-6-3h-4c-4 0-4-3-4-4 0-1.2 0-4 4-4h8m0-4h-8c-4 0-8 2.1-8 8 0 5.8 4 8 8 8h4c2.2 0 4 1.8 4 4 4.4 0 8-3.6 8-8v-4c0-5.5-4-8-8-8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 25.754" xml:space="preserve" height="26px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 25.754" class="i" id="check">
+		<polygon points="12 26 0 14 5.7 8.1 12 14 26 0 32 5.7" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="check_alt">
+	<path d="m16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16zm-2 23l-7.8-7 2.8-2.8 4.5 4.5 9.6-9.6 2.8 2.8-13 12z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="clock">
+	<g fill="#010101">
+		<path d="m16 4c6.6 0 12 5.4 12 12s-5.4 12-12 12-12-5-12-12 5.4-12 12-12m0-4c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16z"/>
+		<path d="m21 19l-3-4v-7h-4v8c0 0.6 0.28 1.1 0.7 1.5l3.9 3.9 2-3z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 20" xml:space="preserve" height="20px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 20" class="i" id="cloud">
+	<path d="m24 4c-0.38 0-0.74 0.061-1.1 0.11-1-2.5-4-4.1-7-4.1s-5.6 1.7-6.9 4.1c-0.4 0-0.7-0.1-1.1-0.1-4.4 0-8 3.6-8 8s3.6 8 8 8h16c4.4 0 8-3.6 8-8s-4-8-8-8zm0 12h-16c-2.2 0-4-1.8-4-4s1.9-3.9 4-3.9c0.008 0.94 0.17 1.9 0.5 2.7l3.7-1.4v-1.6c0-2.2 1.8-4 4-4 1.3 0 2.5 0.64 3.2 1.6-2 1.5-3 3.8-3 6.4h4c0-2.2 1.8-4 4-4s4 1.8 4 4c0 2-2 4-4 4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="cloud_download">
+		<path d="m24 4c-0.38 0-0.74 0.059-1.1 0.11-1-2.5-4-4.1-7-4.1s-5.6 1.7-6.9 4.1c-0.4 0-0.7-0.1-1.1-0.1-4.4 0-8 3.6-8 8s3.6 8 8 8h6v6h-4l6 6 6-6h-4v-6h6c4.4 0 8-3.6 8-8s-4-8-8-8zm0 12h-16c-2.2 0-4-1.8-4-4s1.9-3.9 4-3.9c0.008 0.94 0.17 1.9 0.5 2.7l3.7-1.4v-1.6c0-2.2 1.8-4 4-4 1.3 0 2.5 0.64 3.2 1.6-2 1.5-3 3.8-3 6.4h4c0-2.2 1.8-4 4-4s4 1.8 4 4-2 4-4 4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="cloud_upload">
+		<path d="m24 4c-0.38 0-0.74 0.062-1.1 0.11-1-2.5-4-4.1-7-4.1s-5.6 1.7-6.9 4.1c-0.4 0-0.7-0.1-1.1-0.1-4.4 0-8 3.6-8 8s3.6 8 8 8h16c4.4 0 8-3.6 8-8s-4-8-8-8zm0 12h-16c-2.2 0-4-1.8-4-4s1.9-3.9 4-3.9c0 0.9 0.2 1.8 0.5 2.9l3.7-1.4v-1.6c0-2.2 1.8-4 4-4 1.3 0 2.5 0.64 3.2 1.6-2 1.5-3 3.8-3 6.4h4c0-2.2 1.8-4 4-4s4 1.8 4 4-2 4-4 4z" fill="#010101"/>
+			<polygon points="18 26 22 26 16 20 10 26 14 26 14 32 18 32" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="cog">
+	<path d="m32 18v-4l-4.8-2c-0.13-0.38-0.27-0.74-0.44-1.1l1.9-4.8-3-3-4.8 2c-0.36-0.18-0.73-0.32-1.1-0.46l-2-4.7h-4l-2 4.7c-0.4 0.14-0.78 0.29-1.2 0.47l-4.8-1.9-3 2.8 1.9 4.7c-0.1 0-0.3 1-0.4 1l-4.7 2v4l4.7 2c0.14 0.41 0.3 0.8 0.49 1.2l-1.9 4.7 2.8 2.8 4.7-1.9c0.38 0.18 0.77 0.32 1.2 0.46l2 5h4l2-4.8c0.38-0.14 0.75-0.29 1.1-0.46l4.8 1.9 2.8-2.8-2-4.8c0.17-0.36 0.3-0.72 0.44-1.1l5-2zm-16 4c-3.3 0-6-2.7-6-6s2.7-6 6-6 6 2.7 6 6-3 6-6 6z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="comment_alt1_fill">
+			<path d="m30 20s2.1-4 2.1-8c0-10-8-12-16-12-22 0-16 20-12 24 4-4 4-4 10-4h16z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="comment_alt1_stroke">
+		<path d="m16 4c11 0 12 4.1 12 8 0 1.3-0.36 2.8-0.75 4h-13c-4.7 0-6.7 0.2-9 1.8-0.94-2.6-1.5-6-0.38-8.8 1.4-3.5 5.2-5.2 11-5.2m0-4c-22 0-16 20-12 24 4-4 4-4 10-4h16s2.1-4 2.1-8c0-10-8-12-16-12z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 28 32" xml:space="preserve" height="32px" width="28px" version="1.1" y="0px" x="0px" viewBox="0 0 28 32" class="i" id="comment_alt2_fill">
+		<path d="m14 0c-7.7 0-14 6.3-14 14 0 3.8 1.5 7.3 4 9.8v8l6.7-4.4h3c7.7 0 14-6.3 14-14s-6-14-14-14z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 28 32" xml:space="preserve" height="32px" width="28px" version="1.1" y="0px" x="0px" viewBox="0 0 28 32" class="i" id="comment_alt2_stroke">
+	<path d="m14 4c5.5 0 10 4.5 10 10s-4.5 10-10 10c-0.71 0-1.5-0.1-2.3-0.32l-1.7-0.42h-1.5l-0.46 0.3 0.004-0.68 0.008-1.7-1.2-1.2c-1.8-1-2.8-3-2.8-6 0-5.5 4.5-10 10-10m0-4c-7.7 0-14 6.3-14 14 0 3.8 1.5 7.3 4 9.8v8l6.7-4.4h3c7.7 0 14-6.3 14-14s-6-14-14-14z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 28" xml:space="preserve" height="28px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 28" class="i" id="comment_fill">
+		<path d="m0 20c0 4.4 3.6 8 8 8 0-2.2 1.8-4 4-4h8c6.6 0 12-5.4 12-12s-5-12-12-12h-10c-5.5 0-10 4.5-10 10v10z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 28" xml:space="preserve" height="28px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 28" class="i" id="comment_stroke">
+	<path d="m20 4c4.4 0 8 3.6 8 8s-3.6 8-8 8h-8c-2.6 0-4.9 1.3-6.4 3.2-1-1-1.6-2-1.6-3v-10c0-3.3 2.7-6 6-6h10m0-4h-10c-5.5 0-10 4.5-10 10v10c0 4.4 3.6 8 8 8 0-2.2 1.8-4 4-4h8c6.6 0 12-5.4 12-12s-5-12-12-12z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="compass">
+	<g fill="#010101">
+		<path d="m16 4c6.6 0 12 5.4 12 12s-5.4 12-12 12-12-5-12-12 5.4-12 12-12m0-4c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16z"/>
+			<path d="m18 14c0.8 0.8 1 1.9 0.72 2.9l5-9-8.7 5.1c1 0 2 0 3 1z"/>
+			<path d="m14 18c-0.77-0.77-0.98-1.8-0.74-2.8l-5 9 8.8-5.2c-1 0-2 0-3-1z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="cursor">
+	<polygon points="32 28 18 14 24 8 0 0 8 24 14 18 28 32" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="curved_arrow">
+	<path d="m28 14c0-7.7-6.3-14-14-14s-14 6.3-14 14c0-5.5 4.5-10 10-10s10 4.5 10 10v2h-4l8 8 8-8h-4v-2z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="denied">
+	<path d="m16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16zm0 4c2.6 0 5 0.84 6.9 2.2l-17 17c-1.2-2-2-4-2-7 0-6.6 5.4-12 12-12zm0 24c-2.6 0-5-0.84-6.9-2.2l17-17c1 2 2 4 2 7 0 7-5 12-12 12z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 31.828" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 31.828" class="i" id="dial">
+	<g fill="#010101">
+		<circle cx="16" r="4" cy="16"/>
+		<path d="m29 6c-0.34 0.28-0.76 0.47-1.2 0.47-1.1 0-2-0.89-2-2 0-0.48 0.2-0.91 0.48-1.3-2.2-1.7-4.9-2.9-7.8-3.2 0 1-1 1.8-2 1.8s-2-0.8-2-1.8c-3 0.38-5.7 1.6-7.9 3.3 0.25 0.34 0.43 0.73 0.43 1.2 0 1.1-0.89 2-2 2-0.44 0-0.84-0.17-1.2-0.42-2 2.7-3.3 5.9-3.3 9.9 0 8.8 7.2 16 16 16s16-7.2 16-16c0-4-1-7.3-3-10zm-13 18c-4.4 0-8-3.6-8-8 0-2.2 0.9-4.2 2.3-5.7l6-5.5 5.6 5.6c1 2 2 4 2 6 0 4-4 8-8 8z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="document_alt_fill">
+		<path d="m14 0h-14v32h24v-22l-10-10zm-2 12v-8l8 8h-8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="document_alt_stroke">
+	<path d="m14 0h-14v32h24v-22l-10-10zm-10 28v-24h8v8h8v16h-16z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="document_fill">
+	<path d="m22 0h-22v32l8-6.6 8 7 8-6.6 8 7v-22l-10-10zm-4 14v-10l10 10h-10z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="document_stroke">
+	<path d="m22 0h-22v32l8.1-6.6 7.9 7 8-6.6 8 7v-22l-10-10zm6 24l-4-3.2-8 6.6-8-6.6-4.1 3.2v-20h12v12h12v8zm-8-12v-8l8 8h-8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="download">
+	<g fill="#010101">
+		<rect y="27" width="24" height="4.6"/>
+		<polygon points="16 18 16 0 8 0 8 18 4 18 12 27 20 18"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="eject">
+	<g fill="#010101">
+		<polygon points="0 20 16 0 32 20"/>
+		<rect y="24" width="32" height="8"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="equalizer">
+	<g fill="#010101">
+		<path d="m20 20h-2v-18c0-1.1-0.89-2-2-2s-2 0.9-2 2v18h-2v4h2v6c0 1.1 0.9 2 2 2s2-0.9 2-2v-6h2v-4z"/>
+		<path d="m32 8h-2v-6c0-1.1-0.89-2-2-2s-2 0.9-2 2v6h-2v4h2v18c0 1.1 0.9 2 2 2s2-0.9 2-2v-18h2v-4z"/>
+		<path d="m8 12h-2v-10c0-1.1-0.89-2-2-2s-2 0.9-2 2v10h-2v4h2v14c0 1.1 0.9 2 2 2s2-0.9 2-2v-14h2v-4z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="eye">
+	<g fill="#010101">
+		<path d="m16 0c-8.8 0-16 12-16 12s7.2 12 16 12 16-12 16-12-7-12-16-12zm0 20c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-4 8-8 8z"/>
+		<circle cx="16" r="4" cy="12"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 31.996 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.996 32" class="i" id="eyedropper">
+	<path d="m30 14c3.1-3.1 3.1-8.2 0-11-1.6-1.6-3.6-2.3-5.6-2.3s-4.1 0.78-5.6 2.3l-0.59 0.59-2-3.6-2.8 2.8 3 3-15 15v7.2l3.9 4h7.4l15-15 2.9 2.9 2.8-2.8-2.9-2.9h1zm-20 13c0.047-1.5-0.48-3-1.6-4.2-1.1-1.1-2.4-1.6-3.8-1.6l13-12 5.6 5.6-14 12z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="first">
+	<g fill="#010101">
+		<polygon points="32 32 8 16 32 0"/>
+		<rect y="4" width="8" height="24"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="folder_fill">
+	<g fill="#010101">
+		<path d="m32 30c0 1.1-0.9 2-2 2h-28c-1.1 0-2-0.9-2-2v-18h32v18z"/>
+		<polygon points="12 4 12 0 0 0 0 8 32 8 32 4"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="folder_stroke">
+	<path d="m16 4v-4h-16v28c0 2.2 1.8 4 4 4h24c2.2 0 4-1.8 4-4v-24h-16zm-4 0v4h16v4h-24v-8h8zm16 24h-24v-12h24v12z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 28 32" xml:space="preserve" height="32px" width="28px" version="1.1" y="0px" x="0px" viewBox="0 0 28 32" class="i" id="fork">
+	<g fill="#010101">
+		<path d="m20 0v3.9c0 1.6-0.62 3.1-1.8 4.2l-11 11c-1.9 2-2.8 4-3 7h-4l6 6 6-6h-4c0.1-1.4 0.68-2.8 1.7-3.8l11-11c2-1.9 3-4.5 3-7.1v-3.9h-4z"/>
+		<path d="m24 26c-0.11-2.5-1.1-4.8-2.9-6.6l-2.2-2.2-3 3 2.2 2.2c1 1 1.6 2.4 1.7 3.8h-4l6 6 6-6h-4z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="fullscreen">
+	<g fill="#010101">
+		<polygon points="27 25 23 20 20 23 25 27 20 32 32 32 32 20"/>
+		<polygon points="12 0 0 0 0 12 4.6 7.4 9.1 12 12 9.1 7.4 4.6"/>
+		<polygon points="12 23 9.2 20 4.6 25 0 20 0 32 12 32 7.4 27"/>
+		<polygon points="32 0 20 0 25 4.6 20 9.1 23 12 27 7.4 32 12"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="fullscreen_alt">
+	<g fill="#010101">
+		<polygon points="29 27 23 20 20 23 27 29 24 32 32 32 32 24"/>
+		<polygon points="2.6 5.4 9.2 12 12 9.2 5.4 2.6 8 0 0 0 0 8"/>
+		<polygon points="27 2.6 20 9.2 23 12 29 5.4 32 8 32 0 24 0"/>
+		<polygon points="12 23 9.2 20 2.6 27 0 24 0 32 8 32 5.4 29"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="fullscreen_exit">
+	<g fill="#010101">
+		<polygon points="25 27 29 32 32 29 27 25 32 20 20 20 20 32"/>
+		<polygon points="0 12 12 12 12 0 7.4 4.6 2.9 0.043 0.047 2.9 4.6 7.4"/>
+		<polygon points="0 29 2.8 32 7.4 27 12 32 12 20 0 20 4.6 25"/>
+		<polygon points="20 12 32 12 27 7.4 32 2.9 29 0.043 25 4.6 20 0"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="fullscreen_exit_alt">
+	<g fill="#010101">
+		<polygon points="23 25 29 32 32 29 25 23 28 20 20 20 20 28"/>
+		<polygon points="6.5 9.4 4 12 12 12 12 4 9.4 6.5 2.8 0 0 2.8"/>
+		<polygon points="0 29 2.8 32 9.4 25 12 28 12 20 4 20 6.6 23"/>
+		<polygon points="28 12 25 9.4 32 2.8 29 0 23 6.6 20 4 20 12"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 28 32" xml:space="preserve" height="32px" width="28px" version="1.1" y="0px" x="0px" viewBox="0 0 28 32" class="i" id="hash">
+	<path d="m28 12v-4h-5l1-8h-4l-1 8h-8l1-8h-4l-1 8h-7v4h6.5l-1 8h-5.5v4h5l-1 8h4l1-8h8l-1 8h4l1-8h7v-4h-6.5l1-8h5zm-11 8h-7.5l1-8h8l-1 8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 28" xml:space="preserve" height="28px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 28" class="i" id="headphones">
+	<path d="m30 16h-2v-4c0-6.6-5.4-12-12-12s-12 5.4-12 12v4h-2c-1.1 0-2 0.9-2 2v8c0 1.1 0.9 2 2 2h6v-16c0-4.4 3.6-8 8-8s8 3.6 8 8v16h6c1.1 0 2-0.9 2-2v-8c0-1-1-2-2-2z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 28" xml:space="preserve" height="28px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 28" class="i" id="heart_fill">
+			<path d="m16 3.8c-2-2.2-4-3.8-7.1-3.8-4.9 0-8.9 4-8.9 8.9v0.73l16 18 16-18v-1.1c0-4.9-4-8.9-9-8.9-3 0-5 1.6-7 3.8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 28" xml:space="preserve" height="28px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 28" class="i" id="heart_stroke">
+		<path d="m23 4c2.5 0 4.5 1.8 4.8 4.2l-12 14-12-14c0.4-2.2 2.4-4 4.9-4 2 0 3.9 2.2 3.9 2.2l3 3.4 3.3-3.5c0 0.1 2-2.1 4-2.1m0-4c-3 0-5.5 1.6-7.1 3.8-2-2.2-4-3.8-7.1-3.8-4.9 0-8.9 4-8.9 8.9v0.73l16 18 16-18v-1.1c0-4.9-4-8.9-9-8.9z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="home">
+	<path d="m16 0l-16 16h4v16h24v-16h4l-16-16zm8 28h-6v-6h-4v6h-6v-14l8-6 8 5.7v14z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="image">
+	<g fill="#010101">
+		<polygon points="8 24 8 16 12 12 16 16 24 8 32 16 32 24"/>
+		<polygon points="4 28 4 0 0 4 0 28 0 32 4 32 28 32 32 28"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 16 32" xml:space="preserve" height="32px" width="16px" version="1.1" y="0px" x="0px" viewBox="0 0 16 32" class="i" id="info">
+	<g fill="#010101">
+		<path d="m2 16c1.1 0 2 0.9 2 2v8c0 1.1-0.9 2-2 2h-2v4h16v-4h-2c-1.1 0-2-0.9-2-2v-14h-12v4h2z"/>
+		<circle cx="8" r="4" cy="4"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="iphone">
+	<path d="m16 0h-8c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h8c4.4 0 8-3.6 8-8v-16c0-4.4-4-8-8-8zm-4 30c-1.1 0-2.1-0.92-2.1-2.1s0.92-2.1 2.1-2.1 2.1 0.92 2.1 2.1-1 2-2 2zm8-6h-16v-16c0-2.2 1.8-4 4-4h8c2.2 0 4 1.8 4 4v16z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="key_fill">
+			<path d="m22 0c-5.5 0-10 4.5-10 10 0 0.62 0.074 1.2 0.18 1.8l-12 12v8h12v-4h4v-4h4v-4l0.18-0.18h2c5.5 0 10-4.5 10-10s-4-10-10-10zm0 12c-1.1 0-2-0.9-2-2s0.9-2 2-2 2 0.9 2 2-1 2-2 2z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="key_stroke">
+	<g fill="#010101">
+		<path d="m22 4c3.3 0 6 2.7 6 6s-2.7 6-6 6c-0.31 0-0.66-0.039-1.1-0.12l-2.1-0.38-1.5 1.5-0.18 0.18h-2v2h-4v4h-4v4h-4v-2.3l11-11 1.5-1.5-0.38-2.1v-2c0-3.3 3-6 6-6m0-4c-5.5 0-10 4.5-10 10 0 0.62 0.074 1.2 0.18 1.8l-12 12v8h12v-4h4v-4h4v-4l0.18-0.18h2c5.5 0 10-4.5 10-10s-4-10-10-10z"/>
+		<circle cx="22" r="2" cy="10"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="last">
+	<g fill="#010101">
+		<polygon points="0 0 24 16 0 32"/>
+		<rect height="24" width="8" y="4" x="24"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 31.998 28" xml:space="preserve" height="28px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.998 28" class="i" id="layers">
+	<g fill="#010101">
+		<polygon points="0 20 16 24 32 20 32 24 16 28 0 24"/>
+		<polygon points="0 12 16 16 32 12 32 16 16 20 0 16"/>
+		<polygon points="0 4 16 0 32 4 32 8 16 12 0 8"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 31.998 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.998 32" class="i" id="layers_alt">
+	<g fill="#010101">
+		<polygon points="0 24 16 28 32 24 32 28 16 32 0 28"/>
+		<polygon points="0 16 16 20 32 16 32 20 16 24 0 20"/>
+		<polygon points="0 8 16 12 32 8 32 12 16 16 0 12"/>
+		<polygon points="0 0 16 4 32 0 32 4 16 8 0 4"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="left_quote">
+	<g fill="#010101">
+		<path d="m32 24v-12h-8c0-4.4 3.6-8 8-8v-4c-6.6 0-12 5.4-12 12v12h12z"/>
+		<path d="m12 24v-12h-8c0-4.4 3.6-8 8-8v-4c-6.6 0-12 5.4-12 12v12h12z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="left_quote_alt">
+	<g fill="#010101">
+		<polygon points="32 24 32 0 20 12 20 24"/>
+		<polygon points="12 24 12 0 0 12 0 24"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 20 32" xml:space="preserve" height="32px" width="20px" version="1.1" y="0px" x="0px" viewBox="0 0 20 32" class="i" id="lightbulb">
+	<g fill="#010101">
+		<path d="m10 4c3.3 0 6 2.7 6 6 0 1.9-0.86 3.6-2.4 4.8-2.3 1.7-3.2 3.6-3.5 5.2h-0.1c-0.31-1.6-1.2-3.5-3.5-5.2-1.5-1.1-2.4-2.9-2.4-4.8 0-3.3 2.7-6 6-6m0-4c-5.5 0-10 4.5-10 10 0 3 1.5 6 4 8 1.1 0.84 2 1.9 2 3.4v2.6h8v-3c0-1.5 0.92-2.6 2-3.4 2-2 4-5 4-8 0-5.5-4-10-10-10z"/>
+		<rect height="4" width="8" y="28" x="6"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="link">
+		<path d="m31 0.59c-0.78-0.78-2.1-0.78-2.8 0l-4.1 4.1c-1-1.1-3-1.7-5-1.7-2.6 0-5.1 0.98-7.1 2.9l-6 6c-3.4 3.4-3.8 8.7-1.3 13l-4.1 4.1c-0.78 0.78-0.78 2 0 2.8h1.4s1-0.2 1.4-0.59l4.1-4.1c1.7 1 3.5 2 5.5 2 2.6 0 5.1-0.98 7.1-2.9l6-6c3.4-3.4 3.8-8.7 1.3-13l4.1-4.1c1-0.3 1-1.5 0-2.3zm-6 12c0 1.6-0.62 3.1-1.8 4.2l-6 6c-1 1-2 2-4 2-0.91 0-1.8-0.22-2.6-0.6l3-3c0.78-0.78 0.78-2 0-2.8s-2-0.78-2.8 0l-2.4 4c-0.4-1-0.6-2-0.6-3 0-1.6 0.62-3.1 1.8-4.2l6-6c1-1.4 2-2 4-2 0.91 0 1.8 0.22 2.6 0.6l-3 3c-0.78 0.78-0.78 2 0 2.8 0.39 0.39 0.9 0.59 1.4 0.59 0.51 0 1-0.2 1.4-0.59l3-3c1 0 1 1 1 2z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 31.998 28" xml:space="preserve" height="28px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.998 28" class="i" id="list">
+	<g fill="#010101">
+		<circle cx="2" r="2" cy="2"/>
+		<circle cx="2" r="2" cy="10"/>
+		<circle cx="2" r="2" cy="18"/>
+		<circle cx="2" r="2" cy="26"/>
+		<rect x="8" height="4" width="24"/>
+		<rect height="4" width="24" y="8" x="8"/>
+		<rect height="4" width="24" y="16" x="8"/>
+		<rect height="4" width="24" y="24" x="8"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 28" xml:space="preserve" height="28px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 28" class="i" id="list_nested">
+	<g fill="#010101">
+		<circle cx="2" r="2" cy="2"/>
+		<rect x="8" height="4" width="24"/>
+		<circle cx="10" r="2" cy="10"/>
+		<rect height="4" width="16" y="8" x="16"/>
+		<circle cx="10" r="2" cy="26"/>
+		<rect height="4" width="16" y="24" x="16"/>
+		<circle cx="18" r="2" cy="18"/>
+		<rect height="4" width="8" y="16" x="24"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="lock_fill">
+	<path d="m14 0c-5.5 0-10 4.5-10 10v2h-4v14c0 3.3 2.7 6 6 6h12c3.3 0 6-2.7 6-6v-16c0-5.5-4-10-10-10zm-2 24c-1 0-2-1-2-2s0.9-2 2-2c1.1 0 2 0.9 2 2s-1 2-2 2zm8-12h-12v-2c0-3.3 2.7-6 6-6s6 2.7 6 6v2z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="lock_stroke">
+	<g fill="#010101">
+		<path d="m14 0c-5.5 0-10 4.5-10 10v2h-4v14c0 3.3 2.7 6 6 6h12c3.3 0 6-2.7 6-6v-16c0-5.5-4-10-10-10zm-6 10c0-3.3 2.7-6 6-6 3 0 6 2.7 6 6v2h-12v-2zm10 18h-12c-1.1 0-2-0.9-2-2v-10h16v10c0 1-1 2-2 2z"/>
+		<path d="m14 22c0 1.1-0.9 2-2 2s-2-0.9-2-2 0.89-2 2-2c1 0 2 1 2 2z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32.001" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32.001" class="i" id="loop">
+	<g fill="#010101">
+		<path d="m9.8 3.7l-5.8 5.8v-5.7h-4v12h12v-4h-4.7l5.3-5.3c3.4-3.4 9.3-3.4 13 0l2.8-2.8c-6-5.1-14-5.1-19-0.2z"/>
+		<path d="m20 16v4h4.7l-5.3 5.3c-3.4 3.4-9.3 3.4-13 0l-2.8 2.8c2.5 2.5 5.7 3.8 9.2 3.8s6.7-1.4 9.2-3.8l6-6v5.6h4v-12h-12z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="loop_alt1">
+	<g fill="#010101">
+		<path d="m26 12l-6 6h4c0 1.1-0.9 2-2 2h-12c-1.1 0-2-0.9-2-2v-2h-4v2c0 3.3 2.7 6 6 6h12c3.3 0 6-2.7 6-6h4l-6-6z"/>
+		<path d="m22 0h-12c-3.3 0-6 2.7-6 6v0.062h-4l6 5.9 6-5.9h-4v-0.1c0-1.1 0.9-2 2-2h12c1.1 0 2 0.9 2 2v2h4v-2c0-3.3-3-6-6-6z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 28" xml:space="preserve" height="28px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 28" class="i" id="loop_alt2">
+	<g fill="#010101">
+		<path d="m20 20l6-8 6 8h-4v2c0 3.3-2.7 6-6 6h-12c-3.3 0-6-2.7-6-6v-2h4v2c0 1.1 0.9 2 2 2h12c1.1 0 2-0.9 2-2v-2h-4z"/>
+		<path d="m12 8l-6 8-6-8h4v-2c0-3.3 2.7-6 6-6h12c3.3 0 6 2.7 6 6v2h-4v-2c0-1.1-0.9-2-2-2h-12c-1.1 0-2 0.9-2 2v2h4z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="loop_alt3">
+	<g fill="#010101">
+		<path d="m28 12v2c0 1.1-0.9 2-2 2h-14v-4l-8 6 8 6-0.004-4h14c3.3 0 6-2.7 6-6v-2h-4z"/>
+		<path d="m4 10c0-1.1 0.9-2 2-2h14v4l8-6-8-6v4h-14c-3.3 0-6 2.7-6 6v2h4v-2z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="loop_alt4">
+	<g fill="#010101">
+		<path d="m28 14c0 1.1-0.9 2-2 2h-18v-4l-8 6 8 6v-4h18c3.3 0 6-2.7 6-6h-4z"/>
+		<path d="m6 8h18v4l8-6-8-6v4h-18c-3.3 0-6 2.7-6 6h4c0-1.1 0.9-2 2-2z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="magnifying_glass">
+	<g fill="#010101">
+		<path d="m11 20l-5.7 5.7c0.43 0.43 0.49 0.48 0.92 0.92l5.7-5.7c0-1 0-1-1-1z"/>
+		<path d="m20 0c-6 0-12 5.3-12 12 0 1.6 0.32 3.1 0.87 4.4l-8.9 9 6.6 7 9.1-9.2c1.4 0.56 2.9 0.88 4.4 0.88 6.5 0 12-5.3 12-12s-5-12-12-12zm0 20c-4.3 0-7.9-3.5-7.9-7.9 0-4.3 3.5-7.9 7.9-7.9 4.3 0 7.9 3.5 7.9 7.9 0 4-4 8-8 8z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="mail">
+	<g fill="#010101">
+		<polygon points="16 11 32 3.9 32 0 0 0 0 3.9"/>
+		<polygon points="16 16 0 8.3 0 24 32 24 32 8.3"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 16 32" xml:space="preserve" height="32px" width="16px" version="1.1" y="0px" x="0px" viewBox="0 0 16 32" class="i" id="map_pin_alt">
+	<path d="m8 0c-4.4 0-8 3.6-8 8s8 24 8 24 8-20 8-24-4-8-8-8zm0 12c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-2 4-4 4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 20 32" xml:space="preserve" height="32px" width="20px" version="1.1" y="0px" x="0px" viewBox="0 0 20 32" class="i" id="map_pin_fill">
+			<path d="m17 2.9c-3.9-3.9-10-3.9-14 0-3.9 3.9-3.9 10 0 14-0.1 0 7 7 7 15 0-8 7.1-15 7.1-15 4-4 4-10 0-14zm-7 11c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-2 4-4 4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 20 32" xml:space="preserve" height="32px" width="20px" version="1.1" y="0px" x="0px" viewBox="0 0 20 32" class="i" id="map_pin_stroke">
+	<g fill="#010101">
+		<path d="m10 4c1.6 0 3.1 0.62 4.2 1.8 1 1.1 2 2.6 2 4.2s-0.62 3.1-1.7 4.2c-0.17 0.17-2.2 2.2-4.3 5.4-2-3.2-4.1-5.3-4.2-5.4-0.9-1-1.5-2-1.5-4s0.62-3.1 1.8-4.2 2.6-1.8 4.2-1.8m0-4c-2.6 0-5.1 0.98-7.1 2.9-3.9 3.9-3.9 10 0 14 0 0 7.1 7 7.1 15 0-8 7.1-15 7.1-15 3.9-3.9 3.9-10 0-14-2-2-4-3-7-3z"/>
+		<circle cx="10" r="2" cy="10"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="mic">
+			<path d="m12 16c2.2 0 4-1.8 4-4v-8c0-2.2-1.8-4-4-4s-4 1.8-4 4v8c0 2 1.8 4 4 4z" fill="#010101"/>
+		<path d="m16 28h-2v-4.2c6-1 10-6 10-12v-1.9c0-1.1-0.9-2-2-2s-2 0.9-2 2v2c0 4.4-3.6 8-8 8s-8-3.6-8-8v-1.9c0-1.1-0.9-2-2-2s-2 0.9-2 2v2c0 5.9 4.3 11 10 12v4h-2c-2.2 0-4 1.8-4 4h16c0-2-2-4-4-4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 8" xml:space="preserve" height="8px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 8" class="i" id="minus">
+	<rect width="32" fill="#010101" height="8"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="minus_alt">
+	<path d="m16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16zm8 18h-16v-4h16v4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="moon_fill">
+		<path d="m25 22c-8.2 0-15-6.6-15-15 0-2.7 0.77-5.2 2-7.4-7 2.4-12 8.6-12 16 0 9 7.3 16 16 16 7.5 0 14-5 16-12-2 1-5 2-7 2z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="moon_stroke">
+	<path d="m5.9 9.1c0.85 9 8 16 17 17-1.9 1.2-4.2 1.9-6.5 1.9-6.5 0-12-6-12-12 0-3 0.7-5 1.9-6.9m6.1-9.1c-7 2-12 8.2-12 16 0 9 7.3 16 16 16 7.5 0 14-5 16-12-2.2 1.3-4.7 2-7.4 2-8.2 0-15-6.6-15-15-0.2-2.3 1-4.8 2-7z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="move">
+	<g fill="#010101">
+		<polygon points="18 20 18 26 22 26 16 32 10 26 14 26 14 20"/>
+		<polygon points="14 12 14 6 10 6 16 0 22 6 18 6 18 12"/>
+		<polygon points="12 18 6 18 6 22 0 16 6 10 6 14 12 14"/>
+		<polygon points="20 14 26 14 26 10 32 16 26 22 26 18 20 18"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="move_alt1">
+	<g fill="#010101">
+		<polygon points="16 22 18 20 18 26 22 26 16 32 10 26 14 26 14 20"/>
+		<polygon points="16 10 14 12 14 6 10 6 16 0 22 6 18 6 18 12"/>
+		<polygon points="10 16 12 18 6 18 6 22 0 16 6 10 6 14 12 14"/>
+		<polygon points="22 16 20 14 26 14 26 10 32 16 26 22 26 18 20 18"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="move_alt2">
+	<path d="m16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16zm6 20v-2h-4v4h2l-4 4-4-4h2v-4h-4v2l-4-4 4-4v2h4v-4h-2l4-4 4 4h-2v4h4v-2l4 4-4 4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 12" xml:space="preserve" height="12px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 12" class="i" id="move_horizontal">
+	<g fill="#010101">
+		<polygon points="12 8 6 8 6 12 0 6 6 0 6 4 12 4"/>
+		<polygon points="20 4 26 4 26 0 32 6 26 12 26 8 20 8"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 12" xml:space="preserve" height="12px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 12" class="i" id="move_horizontal_alt1">
+	<g fill="#010101">
+		<polygon points="10 6 12 8 6 8 6 12 0 6 6 0 6 4 12 4"/>
+		<polygon points="22 6 20 4 26 4 26 0 32 6 26 12 26 8 20 8"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="move_horizontal_alt2">
+	<path d="m32 16c0-8.8-7.2-16-16-16s-16 7.2-16 16 7.2 16 16 16 16-7 16-16zm-22 2v2l-4-4 4-4v2h12v-2l4 4-4 4v-2h-12z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 12 32" xml:space="preserve" height="32px" width="12px" version="1.1" y="0px" x="0px" viewBox="0 0 12 32" class="i" id="move_vertical">
+	<g fill="#010101">
+		<polygon points="8 20 8 26 12 26 6 32 0 26 4 26 4 20"/>
+		<polygon points="4 12 4 6 0 6 6 0 12 6 8 6 8 12"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 12 32" xml:space="preserve" height="32px" width="12px" version="1.1" y="0px" x="0px" viewBox="0 0 12 32" class="i" id="move_vertical_alt1">
+	<g fill="#010101">
+		<polygon points="6 22 8 20 8 26 12 26 6 32 0 26 4 26 4 20"/>
+		<polygon points="6 10 4 12 4 6 0 6 6 0 12 6 8 6 8 12"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="move_vertical_alt2">
+	<path d="m16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16zm2 22h2l-4 4-4-4h2v-12h-2l4-4 4 4h-2v12z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="movie">
+	<path d="m28 8h-3.9l4-4-4-4h-5.6l4 4-4 4h-4.7l4.1-4-3-4h-5.9l4 4-4 4h-4l4.1-4-4.1-4h-4v32h32v-32h-3.9l4 4-4 4zm0 20h-24v-4h24v4zm0-8h-24v-4h24v4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="new_window">
+	<path d="m32 0h-24v8h-8v24h24v-8h8v-24zm-12 28h-16v-12h4v8h12v4zm8-8h-16v-12h16v12z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 27.994 31.922" xml:space="preserve" height="32px" width="28px" version="1.1" y="0px" x="0px" viewBox="0 0 27.994 31.922" class="i" id="paperclip">
+	<path d="m11 32c-2.9 0-5.7-1.1-7.8-3.2-2.1-2-3.2-5-3.2-8 0.002-2.9 1.1-5.7 3.2-7.8l11-11c3-3 8.3-3 11 0.016 3.1 3.1 3.1 8.2 0 11l-10 9.8c-1.9 1.9-5.1 1.9-7.1-0.016-1.9-2-1.9-5.1 0-7.1l3.9-3.9 2.8 2.8-3.9 3.9c-0.26 0.26-0.29 0.55-0.29 0.71s0.037 0.45 0.29 0.71c0.51 0.51 0.9 0.51 1.4 0l10-9.8c1.5-1.5 1.5-4.1-0.016-5.6s-4.1-1.5-5.7 0l-10 11c-1.3 1-2 3-2 5 0 1.9 0.73 3.6 2.1 4.9 2.6 2.6 7.3 2.6 9.9 0l5-5 2.8 2.8-5 5c-2 2-5 3-8 3z" fill="#4E4E50"/>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="pause">
+	<g fill="#010101">
+		<rect width="8" height="32"/>
+		<rect x="16" height="32" width="8"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="pen">
+	<path d="m30 2.3c-2-1.5-4-2.3-6-2.3s-4.1 0.78-5.7 2.3l-18 19v11h11l18-18c4-3 4-8.5 1-12zm-20 26h-1.7v-4h-4l0.004-1.7 17-17 5.7 5.7-17 17z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32.001" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32.001" class="i" id="pen_alt2">
+	<g fill="#010101">
+		<path d="m31 1.2c-1.6-1.6-4.1-1.6-5.7 0l-15 15c1.4 0.35 2.6 1 3.6 2s1.7 2.3 2 3.6l15-15c1-1.7 1-4.3 0-5.8z"/>
+		<path d="m11 27c1.6-1.6 1.6-4.1 0-5.7s-4.1-1.6-5.7 0l-5.3 11 11-5z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="pen_alt_fill">
+			<path d="m30 2.3c-3.1-3.1-8.2-3.1-11 0l-19 19v11h11l18-18c4-3 4-8.5 1-12zm-20 26h-5.6v-5.7c1.6-1.6 4.1-1.6 5.7 0s1.3 4-0.1 6zm17-17l-5.7-5.7c1.6-1.6 4.1-1.6 5.7 0s1 4 0 5.7z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="pen_alt_stroke">
+	<path d="m30 2.3c-2-1.5-4-2.3-6-2.3s-4.1 0.78-5.7 2.3l-18 19v11h11l18-18c4-3 4-8.5 1-12zm-20 26h-0.1c1.6-1.6 1.6-4.1 0-5.7-1.5-1.5-3.9-1.5-5.4-0.15l17-17 5.7 5.7-17 17z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="pilcrow">
+	<path d="m24 0h-16c-4.4 0-8 3.6-8 8s3.6 8 8 8v16h4v-28h4v28h4v-28h4v-4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="pin">
+	<path d="m32 8c0-4.4-3.6-8-8-8-3 0-5.6 1.7-6.9 4.1 0-0.002 0.004-0.004 0.004-0.006-0.37-0.035-0.72-0.11-1.1-0.11-6.6 0-12 5.4-12 12 0 2.5 0.79 4.9 2.1 6.8l-6.1 9 9.3-6.1c1.9 1.3 4.2 2 6.7 2 6.6 0 12-5.4 12-12 0-0.35-0.07-0.67-0.1-1 2-1 4-4 4-7zm-16 16c-4.4 0-8-3.6-8-8s3.6-8 8-8c0.012 0 0.023 0.004 0.031 0.004 0-0.008 0.004-0.014 0.004-0.02 0 0.7 0.12 1.4 0.28 2l-3.2 3.2c-1.6 1.6-1.6 4.1 0 5.7s4.1 1.6 5.7 0l3.1-3.1c0.66 0.18 1.3 0.3 2.1 0.31 0 4-4 8-8 8zm8-12c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-2 4-4 4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="play">
+	<polygon points="0 0 24 16 0 32" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="play_alt">
+	<path d="m16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16zm-6 24v-16l16 8-16 8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="plus">
+	<polygon points="32 12 20 12 20 0 12 0 12 12 0 12 0 20 12 20 12 32 20 32 20 20 32 20" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="plus_alt">
+	<path d="m16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16zm8 18h-6v6h-4v-6h-6v-4h6v-6h4v6h6v4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 16 32" xml:space="preserve" height="32px" width="16px" version="1.1" y="0px" x="0px" viewBox="0 0 16 32" class="i" id="question_mark">
+	<g fill="#010101">
+		<circle cx="7.6" r="2" cy="30"/>
+		<path d="m7.7 26c-1.3 0-2.6-0.52-3.5-1.5s-1.5-2.2-1.5-3.5 0.52-2.6 1.5-3.5l6.7-6.7c1 0.7 1-0.3 1-1.4s-0.41-2.1-1.2-2.8c-1.6-1.6-4.1-1.6-5.7 0-0.9 0.8-1.3 1.8-1.3 2.8h-4c0-2.1 0.83-4.1 2.3-5.7 3-3 8.3-3 11 0.002 2 1.6 3 3.6 3 5.7s-0.83 4.1-2.3 5.7l-7 6c-0.39 0.39-0.39 1 0 1.4 0.39 0.39 1 0.39 1.4 0 0.25-0.25 0.29-0.56 0.29-0.71h4c0 1.3-0.52 2.6-1.5 3.5s-3 2-4.3 2z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 31.998 28" xml:space="preserve" height="28px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.998 28" class="i" id="rain">
+	<g fill="#010101">
+		<path d="m24 4c-0.38 0-0.73 0.061-1.1 0.11-1-2.5-4-4.1-7-4.1s-5.6 1.7-6.9 4.1c-0.4 0-0.7-0.1-1.1-0.1-4.4 0-8 3.6-8 8s3.6 8 8 8h16c4.4 0 8-3.6 8-8s-4-8-8-8zm0 12h-16c-2.2 0-4-1.8-4-4s1.9-3.9 4-3.9c0.008 0.94 0.17 1.9 0.5 2.7l3.7-1.4v-1.6c0-2.2 1.8-4 4-4 1.3 0 2.5 0.64 3.2 1.6-2 1.5-3 3.8-3 6.4h4c0-2.2 1.8-4 4-4s4 1.8 4 4-2 4-4 4z"/>
+		<path d="m3.3 27c-0.75 0.75-2 0.75-2.7 0s-0.75-2 0-2.7 5.4-2 5.4-2-2 5-2.7 5z"/>
+		<path d="m11 27c-0.75 0.75-2 0.75-2.7 0-0.75-0.75-0.75-2 0-2.7 1 0 5.7-2 5.7-2s-2 5-3 5z"/>
+		<path d="m19 27c-0.75 0.75-2 0.75-2.7 0s-0.75-2 0-2.7 6-2 6-2-2 5-3 5z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="read_more">
+	<g fill="#010101">
+		<polygon points="32 4 0 4 0 0 32 0"/>
+		<polygon points="20 12 0 12 0 8 20 8"/>
+		<polygon points="32 20 0 20 0 16 32 16"/>
+		<circle cx="2" r="2" cy="30"/>
+		<path d="m12 30c0 1.1-0.9 2-2 2s-2-0.9-2-2 0.9-2 2-2c1 0 2 1 2 2z"/>
+		<circle cx="18" r="2" cy="30"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 24 28" xml:space="preserve" height="28px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 28" class="i" id="reload">
+		<path d="m20 16c0 4.4-3.6 8-8 8s-8-3.6-8-8 3.6-8 8-8l2.4 0.027-1.2 1.2 2.8 2.8 6-6-6-6-2.8 2.8 1 1.2h-2c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12h-4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 24 28" xml:space="preserve" height="28px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 28" class="i" id="reload_alt">
+		<path d="m20 16c0 4.4-3.6 8-8 8s-8-3.6-8-8 3.6-8 8-8l4 0.043v4l6-6-6-6v4h-4c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12h-4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="right_quote">
+	<g fill="#010101">
+		<path d="m0 0v12h8c0 4.4-3.6 8-8 8v4c6.6 0 12-5.4 12-12v-12h-12z"/>
+		<path d="m20 0v12h8c0 4.4-3.6 8-8 8v4c6.6 0 12-5.4 12-12v-12h-12z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="right_quote_alt">
+	<g fill="#010101">
+		<polygon points="0 0 0 24 12 12 12 0"/>
+		<polygon points="20 0 20 24 32 12 32 0"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="rss">
+		<circle cx="4" r="4" cy="28" fill="#010101"/>
+			<path d="m6 20c3.3 0 6 2.7 6 6h4c0-6-4-10-10-10v4z" fill="#010101"/>
+			<path d="m6 12c8 0 14 6 14 14h4c0-10-8-18-18-18v4z" fill="#010101"/>
+			<path d="m6 4c12 0 22 10 22 22h4c0-14-12-26-26-26v4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="rss_alt">
+	<g fill="#010101">
+		<path d="m32 32h-4.6c0-15-12-27-27-27v-5c18 0 32 14 32 32z"/>
+		<path d="m23 32h-4.6c0-10-8.2-18-18-18v-4.9c13 0 23 9.9 23 23z"/>
+		<path d="m14 32h-4.9c0-5-4.1-9.1-9.1-9.1v-4.6c7.6 0 14 6 14 14z"/>
+		<path d="m4.6 32c0-2.5-2-4.6-4.6-4.6v5h4.6z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 31.998 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.998 32" class="i" id="share">
+	<path d="m28 24c-0.97 0-1.8 0.39-2.5 0.96l-6.1-4.4v-3c0-1.3-0.42-2.5-1.1-3.5l7.1-7.1c1 0.8 1 1.1 2 1.1 2.2 0 4-1.8 4-4s-1.8-4-4-4-4 1.8-4 4c0 0.74 0.26 1.4 0.6 2l-7.1 7.1c-2-1-3-1-4-1-2.3 0-4.3 1.3-5.3 3.2l-4.8-1.6c-0.2 0-0.9-1-1.9-1-1.1 0-2 0.9-2 2s0.9 2 2 2c0.5 0 0.95-0.2 1.3-0.51l4.8 1.6c-0.1 0-0.1 1-0.1 1 0 3.3 2.7 6 6 6 1.6 0 3.1-0.67 4.2-1.7l6.1 4.3c-0.17 0.44-0.29 0.92-0.29 1.4 0 2.2 1.8 4 4 4s4-1.8 4-4-2-3-4-3z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 28 32" xml:space="preserve" height="32px" width="28px" version="1.1" y="0px" x="0px" viewBox="0 0 28 32" class="i" id="spin">
+	<g fill="#010101">
+		<path d="m24 6.1l-2.8 2.8c2 2.1 3 4.1 3 7.1 0 5.5-4.5 10-10 10v-2l-4 4 4 4v-2c7.7 0 14-6.3 14-14 0-4-1-7.3-4-9.9z"/>
+		<path d="m18 4l-4-4v2c-7.7 0-14 6.3-14 14 0 3.7 1.5 7.3 4.1 9.9l2.8-2.8c-1.9-2-2.9-4-2.9-7 0-6 4.5-10 10-10v2l4-4z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="spin_alt">
+	<g fill="#010101">
+		<path d="m4.7 27c-3-3-4.7-7-4.7-11 0-8.8 7.2-16 16-16l2 2-2 2c-6.6 0-12 5.4-12 12 0 3.2 1.2 6.2 3.5 8.5l-2.5 0.32-0.3 3z"/>
+		<path d="m16 32l-2-2 2-2c6.6 0 12-5.4 12-12 0-3.2-1.2-6.2-3.5-8.5l2.5-0.32 0.37-2.5c4 3 6 7.3 6 11 0 9-7 16-16 16z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="star">
+		<polygon points="22 20 32 12 20 12 16 0 12 12 0 12 9.9 20 6 32 16 24 26 32" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="steering_wheel">
+	<path d="m16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16zm0 4c5.2 0 9.6 3.4 11 8h-22c1.4-4.6 6-8 11-8zm0 14c-1.1 0-2-0.9-2-2s0.9-2 2-2 2 0.9 2 2-1 2-2 2zm-12-2c5.5 0 9.9 5.3 10 12-5.7-1-10-6-10-12zm14 12c0-7 5-12 10-12 0 6-4 11-10 12z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="stop">
+	<rect width="32" fill="#010101" height="32"/>
+</svg>
+<svg  style="enable-background:new 0 0 31.998 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.998 32" class="i" id="sun_fill">
+	<g fill="#010101">
+		<path d="m16 8c-4.4 0-8 3.6-8 8s3.6 8 8 8c4.4 0 8-3.6 8-8s-4-8-8-8z"/>
+		<path d="m18 2c0 1.1-0.9 2-2 2s-2-0.9-2-2 0.89-2 2-2c1 0 2 0.9 2 2z"/>
+		<circle cx="6" r="2" cy="6"/>
+		<path d="m2 14c1.1 0 2 0.9 2 2s-0.9 2-2 2-2-0.89-2-2c0-1 0.89-2 2-2z"/>
+		<circle cx="6" r="2" cy="26"/>
+		<path d="m14 30c0-1.1 0.89-2 2-2s2 0.89 2 2c0 1.1-0.89 2-2 2s-2-1-2-2z"/>
+		<path d="m25 27c-0.78-0.78-0.78-2 0-2.8s2-0.78 2.8 0c0.79 0.78 0.79 2 0 2.8-1 1-3 1-3 0z"/>
+		<path d="m30 18c-1.1 0-2-0.9-2-2s0.9-2 2-2 2 0.89 2 2c0 1-1 2-2 2z"/>
+		<path d="m27 7.4c-0.78 0.78-2 0.78-2.8 0-0.78-0.78-0.78-2 0-2.8 0.78-0.78 2-0.78 2.8 0.002 1 0.8 1 2 0 2.8z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 31.998 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.998 32" class="i" id="sun_stroke">
+	<g fill="#010101">
+		<path d="m16 12c2.2 0 4 1.8 4 4s-1.8 4-4 4-4-1.8-4-4 2-4 4-4m0-4c-4.4 0-8 3.6-8 8s3.6 8 8 8 8-3.6 8-8-4-8-8-8z"/>
+		<circle cx="16" r="2" cy="2"/>
+		<circle cx="6" r="2" cy="6"/>
+		<path d="m2 14c1.1 0 2 0.9 2 2s-0.9 2-2 2-2-0.89-2-2c0-1 0.9-2 2-2z"/>
+		<circle cx="6" r="2" cy="26"/>
+		<path d="m14 30c0-1.1 0.9-2 2-2s2 0.89 2 2-0.89 2-2 2c-1 0-2-1-2-2z"/>
+		<path d="m25 27c-0.78-0.78-0.78-2 0-2.8 0.79-0.78 2-0.78 2.8 0s0.79 2 0 2.8c-1 1-3 1-3 0z"/>
+		<path d="m30 18c-1.1 0-2-0.9-2-2s0.89-2 2-2 2 0.89 2 2c0 1-1 2-2 2z"/>
+		<path d="m27 7.4c-0.78 0.78-2 0.78-2.8 0-0.78-0.78-0.78-2 0-2.8 0.78-0.78 2-0.78 2.8 0.002 1 0.8 1 2 0 2.8z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="tag_fill">
+	<path d="m13 0h-13v13l19 19v-13h13l-19-19zm-5.7 11c-2.1 0-3.8-1.7-3.8-3.8s1.7-3.8 3.8-3.8 3.8 1.7 3.8 3.8-1.6 3.8-3.7 3.8z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="tag_stroke">
+		<path d="m12 8.6c0 1.7-1.4 3.1-3.1 3.1s-3.1-1.4-3.1-3.1 1.4-3.1 3.1-3.1c1.1-0.3 3.1 1.1 3.1 2.8z" fill="#010101"/>
+			<path d="m0 0v13l19 19v-13h13l-19-19h-13zm12 3.6l12 12h-8.2s0 5.1 0 8.2c-5-4-12-11-12-12v-8.2c1.8-0.2 7-0.2 8-0.2z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="target">
+				<path d="m18 14h5.8c-0.73-2.8-3-5.1-5.8-5.8v5.8z" fill="#010101"/>
+				<path d="m18 18v5.8c2.8-0.73 5.1-3 5.8-5.8h-6z" fill="#010101"/>
+				<path d="m14 14v-5.8c-2.8 0.73-5.1 3-5.8 5.8h5.8z" fill="#010101"/>
+				<path d="m14 18h-5.8c0.73 2.8 3 5.1 5.8 5.8v-6z" fill="#010101"/>
+		<g fill="#010101">
+			<path d="m18 4.1c5.1 0.86 9.1 4.8 9.9 9.9h4c-1-7.3-7-13-14-14v4.1z"/>
+			<path d="m4.1 14c0.8-5.1 4.8-9.1 9.9-9.9v-4.1c-7.3 0.92-13 6.7-14 14h4.1z"/>
+			<path d="m14 28c-5.1-0.86-9.1-4.8-9.9-9.9h-4.1c0.92 7 6.7 13 14 14v-4z"/>
+			<path d="m28 18c-0.86 5.1-4.8 9.1-9.9 9.9v4c7-1 13-7 14-14h-4z"/>
+		</g>
+</svg>
+<svg  style="enable-background:new 0 0 31.998 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.998 24" class="i" id="transfer">
+	<g fill="#010101">
+		<polygon points="32 20 8 20 8 24 0 18 8 12 8 16 32 16"/>
+		<polygon points="0 8 24 8 24 12 32 6 24 0 24 4 0 4"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="trash_fill">
+	<path d="m28 4h-4c0-2.2-1.8-4-4-4h-8c-2.2 0-4 1.8-4 4h-8v4h4v18c0 3.3 2.7 6 6 6h12c3.3 0 6-2.7 6-6v-18h4v-4h-4zm-16 20c-1.1 0-2-0.9-2-2s0.9-2 2-2 2 0.9 2 2-1 2-2 2zm0-8c-1.1 0-2-0.9-2-2s0.9-2 2-2 2 0.9 2 2-1 2-2 2zm8 8c-1.1 0-2-0.9-2-2s0.9-2 2-2 2 0.9 2 2-1 2-2 2zm0-8c-1.1 0-2-0.9-2-2s0.9-2 2-2 2 0.9 2 2-1 2-2 2z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="trash_stroke">
+	<g fill="#010101">
+		<path d="m32 4h-8c0-2.2-1.8-4-4-4h-8c-2.2 0-4 1.8-4 4h-8v4h4v18c0 3.3 2.7 6 6 6h12c3.3 0 6-2.7 6-6v-18h4v-4zm-8 22c0 1.1-0.9 2-2 2h-12c-1.1 0-2-0.9-2-2v-18h16v18z"/>
+		<circle cx="12" r="2" cy="22"/>
+		<circle cx="12" r="2" cy="14"/>
+		<circle cx="20" r="2" cy="22"/>
+		<circle cx="20" r="2" cy="14"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 31.998 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.998 32" class="i" id="umbrella">
+	<path d="m16 0c-8.8 0-16 7.2-16 16h4c0-0.83 0.68-1.5 1.5-1.5 0.8 0 1.5 1 1.5 2h4c0-0.83 0.68-1.5 1.5-1.5 0.83 0 1.5 0.67 1.5 1.5v10c0 1.1-0.9 2-2 2s-2-0.9-2-2h-4c0 3.3 2.7 6 6 6s6-2.7 6-6v-10c0-0.83 0.68-1.5 1.5-1.5 0.83 0 1.5 0.67 1.5 1.5h4c0-0.83 0.68-1.5 1.5-1.5 0.83 0 1.5 0.67 1.5 1.5h4c-2-8.8-9-16-18-16z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32.002" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32.002" class="i" id="undo">
+	<g fill="#010101">
+		<path d="m28 3.7c-5-5-14-5-19 0l-5 5.6v-5.3h-4v12h12v-4h-5l5.5-5.5c3.4-3.4 9.5-3.4 13 0.004 2 1.8 3 4.5 3 6.5 0 2.4-0.95 4.7-2.7 6.5l-3 3 2.8 2.8 3-3c3-3 4-6 4-10s-1-6.8-4-9.3z"/>
+			<rect transform="matrix(.71 .71 -.71 .71 26 -4.5)" height="4" width="4" y="27" x="16"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="unlock_fill">
+	<path d="m14 0c-5.5 0-10 4.5-10 10h4c0-3.3 2.7-6 6-6 3 0 6 2.7 6 6v2h-20v14c0 3.3 2.7 6 6 6h12c3.3 0 6-2.7 6-6v-16c0-5.5-4-10-10-10zm-2 24c-1.1 0-2-0.9-2-2s0.9-2 2-2c1.1 0 2 0.9 2 2s-1 2-2 2z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="unlock_stroke">
+	<g fill="#010101">
+		<path d="m14 0c-5.5 0-10 4.5-10 10h4c0-3.3 2.7-6 6-6s6 2.7 6 6v2h-20v14c0 3.3 2.7 6 6 6h12c3.3 0 6-2.7 6-6v-16c0-5.5-4-10-10-10zm4 28h-12c-1.1 0-2-0.9-2-2v-10h16v10c0 1-1 2-2 2z"/>
+		<path d="m14 22c0 1.1-0.9 2-2 2s-2-0.89-2-2c0-1.1 0.9-2 2-2s2 1 2 2z"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="upload">
+	<g fill="#010101">
+		<rect width="24" height="4.6"/>
+		<polygon points="8 14 8 32 16 32 16 14 20 14 12 4.6 4 14"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 24 32" xml:space="preserve" height="32px" width="24px" version="1.1" y="0px" x="0px" viewBox="0 0 24 32" class="i" id="user">
+	<g fill="#010101">
+		<path d="m12 16c-6.6 0-12 5-12 12 0 2.2 1.8 4 4 4h16c2.2 0 4-1.8 4-4 0-7-5-12-12-12z"/>
+		<circle cx="12" r="6" cy="6"/>
+	</g>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="volume">
+			<path d="m8 20c-4.4 0-8-3.6-8-8s3.6-8 8-8v16z" fill="#010101"/>
+			<polygon points="12 4 20 0 20 24 12 20" fill="#010101"/>
+		<path d="m24 20v-4c0.33 0 0.67-0.043 1-0.12 2-1 3-2 3-4s-1.2-3.4-3-3.9c-0.32-0.078-0.65-0.12-0.98-0.12v-4c0.66 0 1.3 0.082 2 0.24 4 1 6 4.1 6 7.8s-2.5 6.9-6 7.8h-2z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 24" xml:space="preserve" height="24px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 24" class="i" id="volume_mute">
+			<path d="m8 20c-4.4 0-8-3.6-8-8s3.6-8 8-8v16z" fill="#010101"/>
+			<polygon points="12 4 20 0 20 24 12 20" fill="#010101"/>
+		<polygon points="32 14 24 14 24 10 32 10" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 31.998 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 31.998 32" class="i" id="wrench">
+	<path d="m32 5.6l-5 5h-5.2v-5.7l5-5c-1-0.15-2-0.3-3-0.3-4 0-8 3.6-8 8 0 1.2 0.3 2.4 0.8 3.4l-16 16c-0.7 1-1 2-1 2 0 2 1.2 3 2.7 3 0.74 0 1.4-0.3 1.9-0.78l16-16c1 1 2 1 3 1 4.4 0 8-3.6 8-8v-2.4z" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 28 28" xml:space="preserve" height="28px" width="28px" version="1.1" y="0px" x="0px" viewBox="0 0 28 28" class="i" id="x">
+		<polygon points="28 22 20 14 28 5.6 22 0 14 8.4 5.6 0 0 5.6 8.4 14 0 22 5.6 28 14 20 22 28" fill="#010101"/>
+</svg>
+<svg  style="enable-background:new 0 0 32 32" xml:space="preserve" height="32px" width="32px" version="1.1" y="0px" x="0px" viewBox="0 0 32 32" class="i" id="x_alt">
+	<path d="m16 0c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7-16-16-16zm8 21l-2.8 2.8-5-5-5.1 5.1-2.8-2.8 4.8-5-5.1-5.1 2.8-2.8 5 4.8 5.1-5.1 2.8 2.8-5 5 5 5z" fill="#010101"/>
+</svg>
+</svg>

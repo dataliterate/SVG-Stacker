@@ -1,0 +1,26 @@
+The files are taken from the Tango Icon Theme.
+
+
+Tango Icon Theme
+----------------
+
+This is an icon theme that follows the Tango visual guidelines [1]. Currently
+it depends on Imagemagick for creation of 24x24 bitmaps by adding a 1px padding
+around the 22x22px version. For GNOME and KDE you will also need
+icon-naming-utils that allow the theme to work in these environments before
+they follow the new naming scheme [2].
+
+[1] http://tango-project.org/Tango_Icon_Theme_Guidelines
+[2] http://tango-project.org/Standard_Icon_Naming_Specification
+
+----------
+
+Ulisse Perusin <uli.peru@gmail.com>
+Steven Garrity <sgarrity@silverorange.com>
+Lapo Calamandrei <calamandrei@gmail.com>
+Ryan Collier <rcollier@novell.com>
+Rodney Dawes <dobey@novell.com>
+Andreas Nilsson <nisses.mail@home.se>
+Tuomas Kuosmanen <tigert@tigert.com>
+Garrett LeSage <garrett@novell.com>
+Jakub Steiner <jimmac@novell.com>
