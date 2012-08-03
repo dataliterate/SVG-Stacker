@@ -83,7 +83,7 @@
         return;
       }
 
-      getdataURIFromStack(url, function(dataURI) {
+      getdataURIFromStack(url, function(dataURI) {
         // Replace background-image url with dataURI
         $el.css('background-image', 'url(' + dataURI + ')');
       });
