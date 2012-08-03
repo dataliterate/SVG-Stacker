@@ -164,7 +164,7 @@ function outputHTML(demo, name) {
   if(demo.jsfix) {
     code = [];
     code.push('<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>');
-    code.push('<script src="/fixsvgstack.jquery.js"></script>');
+    code.push('<script src="http://preciousforever.github.com/SVG-Stacker/fixsvgstack.jquery.js"></script>');
     code.push('<script>');
     code.push('(function($) {');
       code.push("\t" + '$(document).ready(function() {');
