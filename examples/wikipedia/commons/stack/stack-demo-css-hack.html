@@ -1,0 +1,33 @@
+<html><head><title>SVG Stack</title>
+<style>
+body { font-family: Helvetica; }
+table { width: 100%; text-align: left; }
+.svg-logo {
+  background: transparent url('stack.svg#SVG') no-repeat top left; 
+  content: 'stack.svg#SVG'; /* use content to pass url to webkit fixSVGStackBackground */
+  width: 220pt;
+  height: 250pt;
+  border: 10px solid #CCC;
+}
+</style>
+</head>
+<body>
+<h1>SVG Stack</h1>
+<p>created with an early demo of https://github.com/preciousforever/svg-stacker</p>
+
+<p>Demo of quick 'n dirty CSS hack</p>
+
+<div class="svg-logo">&nbsp;</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="/fixsvgstack.jquery.js"></script>
+<script>
+(function($) {
+  $(document).ready(function() {
+    $('div').fixSVGStackBackground();
+  });
+})(jQuery);
+</script>
+
+</body>
+</html>
