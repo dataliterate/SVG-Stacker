@@ -13,7 +13,7 @@ I created SVG Stacker to explore the power of the SVG Stack concept and test fil
 Example Stacks
 -----------
 * [Different Sizes, all embed techniques](http://preciousforever.github.com/SVG-Stacker/examples/wikipedia/commons/stack/stack-demo-all.html)
-* [Tango Device Icons, embed as background image](http://preciousforever.github.com/SVG-Stacker/examples/tango-icon-theme/devices/stack/stack-demo-background.html)
+* [Tango Device Icons, embedded as background image](http://preciousforever.github.com/SVG-Stacker/examples/tango-icon-theme/devices/stack/stack-demo-background.html) (Firefox only)
 
 **with Webkit fix**:
 
