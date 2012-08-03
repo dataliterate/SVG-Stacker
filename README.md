@@ -10,8 +10,17 @@ The project contains three example stacks based icons of the famous [Tango Icon 
 
 I created SVG Stacker to explore the power of the SVG Stack concept and test filesize, performance and browser-support.
 
+Example Stacks
+-----------
+* [Different Sizes, all embed techniques](http://preciousforever.github.com/SVG-Stacker/examples/wikipedia/commons/stack/stack-demo-all.html)
+* [Tango Device Icons, embed as background image](http://preciousforever.github.com/SVG-Stacker/examples/tango-icon-theme/devices/stack/stack-demo-background.html)
 
-SVG Stacks
+**with Webkit fix**:
+
+* [IMG and style-attribute fix](http://preciousforever.github.com/SVG-Stacker/examples/wikipedia/commons/stack/stack-demo-jsfix.html)
+* [CSS Hack](http://preciousforever.github.com/SVG-Stacker/examples/wikipedia/commons/stack/stack-demo-css-hack.html)
+
+About SVG Stacks
 -----------
 
 Simon 'Simurai' first described 'SVG Stacks' in March 2012. It's a technique to stack different SVG objects into one file to save HTTP Requests.
@@ -22,6 +31,9 @@ Simon 'Simurai' first described 'SVG Stacks' in March 2012. It's a technique to 
 
 The ':target'-technique was first introduced by [@erikdahlstrom](https://twitter.com/erikdahlstrom) – it's worth checking out his [SVG Code snippets](http://xn--dahlstrm-t4a.net/svg/).
 
+Wekit Fix
+-----------
+Read [annotated source](http://preciousforever.github.com/SVG-Stacker/docs/fixsvgstack.jquery.html).
 
 Background
 -----------
@@ -72,13 +84,13 @@ There are pros and cons. Here is a list of things we thought about so far and wo
 
 4.  Animation
 
-    See soccer-ball in [Example](http://preciousforever.github.com/SVG-Stacker/examples/wikimedia/commons/stack/stack-demo-all.html)
+    See soccer-ball in [Wikipedia Example](http://preciousforever.github.com/SVG-Stacker/examples/wikipedia/commons/stack/stack-demo-all.html)
 
 5.  (Not) yet available on Webkit
 
     There is a [Webkit-Bug](https://bugs.webkit.org/show_bug.cgi?id=91790) that needs to be fixed to make SVG Stacks work.
     
-    *Update* For now I created a jQuery Plugin to fix SVG Stacks for Webkit.
+    **Update** For now I created a jQuery Plugin to fix SVG Stacks for Webkit. See Webkit Fix above.
 
 6.  Slow?
 
