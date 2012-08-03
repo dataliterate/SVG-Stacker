@@ -74,10 +74,12 @@ There are pros and cons. Here is a list of things we thought about so far and wo
 
     See soccer-ball in [Example](http://preciousforever.github.com/SVG-Stacker/examples/wikimedia/commons/stack/stack-demo-all.html)
 
-4.  Not yet available on Webkit
+5.  (Not) yet available on Webkit
 
-    [Webkit-Bug](https://bugs.webkit.org/show_bug.cgi?id=91790)
+    There is a [Webkit-Bug](https://bugs.webkit.org/show_bug.cgi?id=91790) that needs to be fixed to make SVG Stacks work.
+    
+    *Update* For now I created a jQuery Plugin to fix SVG Stacks for Webkit.
 
-5.  Slow?
+6.  Slow?
 
     Test the examples: Some browser need an extensive rendering time.
