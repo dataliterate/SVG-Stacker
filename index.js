@@ -159,6 +159,7 @@ function outputHTML(demo, name) {
     
   });
   html.push('</tbody>');
+  html.push('</table>');
   html.push('</body>');
   html.push('</html>');
   
