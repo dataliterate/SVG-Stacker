@@ -144,12 +144,12 @@ function outputHTML(demo, name) {
       html.push('<td>' + code + '</td>');
       html.push('<td><textarea cols="40" rows="3">' + htmlEscape(code) + '</textarea></td>');
     }
-    if(demo.img) {
+    if(demo.img || demo.jsfix) {
       code = '<img src="' + url + '" width="' + icon.w + '" height="' + icon.h + '">';
       html.push('<td>' + code + '</td>');
       html.push('<td><textarea cols="40" rows="3">' + htmlEscape(code) + '</textarea></td>');
     }
-    if(demo.background) {
+    if(demo.background || demo.jsfix) {
       code = '<div style="background: transparent url(' + url + ') no-repeat top left; width: ' + icon.w + '; height: ' + icon.h + ';"></div>' 
       html.push('<td>' + code + '</td>');
       html.push('<td><textarea cols="40" rows="3">' + htmlEscape(code) + '</textarea></td>');
@@ -160,6 +160,24 @@ function outputHTML(demo, name) {
   });
   html.push('</tbody>');
   html.push('</table>');
+
+  if(demo.jsfix) {
+    code = [];
+    code.push('<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>');
+    code.push('<script src="/fixsvgstack.jquery.js"></script>');
+    code.push('<script>');
+    code.push('(function($) {');
+      code.push("\t" + '$(document).ready(function() {');
+        code.push("\t\t" + "$('div').fixSVGStackBackground();");
+        code.push("\t\t" + "$('img').fixSVGStack();");
+      code.push("\t" + '});');
+    code.push('})(jQuery);');
+    code.push('</script>');
+    var codeText = code.join("\n");
+    html.push(codeText);
+    html.push('<td><textarea cols="40" rows="3">' + htmlEscape(codeText) + '</textarea></td>');
+  }
+
   html.push('</body>');
   html.push('</html>');
   
@@ -199,6 +217,7 @@ readSourceDir(function() {
   outputHTML({embed: true}, 'embed');
   outputHTML({iframe: true}, 'iframe');
   outputHTML({img: true}, 'img');
+  outputHTML({jsfix: true}, 'jsfix');
   outputHTML({object: true, embed: true, iframe: true, background: true, img: true}, 'all');
 
 });

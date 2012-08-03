@@ -1,72 +1,54 @@
-<html><head><title>SVG Stack</title>
-<style>
-body { font-family: Helvetica; }
-table { width: 100%; text-align: left; }
-.svg {
-  background: transparent url('stack.svg#SVG') no-repeat top left; width: 220.00000pt; height: 250.00000pt;
-  content: 'stack.svg#SVG';
-  border: 1px solid red;
-}
-</style>
-</head>
+<html><head><title>SVG Stack</title><style>body { font-family: Helvetica; } table { width: 100%; text-align: left; }</style></head>
 <body>
 <h1>SVG Stack</h1>
 <p>created with an early demo of https://github.com/preciousforever/svg-stacker</p>
 <table>
 <thead><tr>
 <th>Name</th>
-<th>Image</th>
-<th>Code</th>
 </tr></thead>
 <tbody>
 <tr>
 <td>Soccer_ball_animated</td>
 <td><img src="stack.svg#Soccer_ball_animated" width="150" height="150"></td>
 <td><textarea cols="40" rows="3">&lt;img src=&quot;stack.svg#Soccer_ball_animated&quot; width=&quot;150&quot; height=&quot;150&quot;&gt;</textarea></td>
-</tr>
-<tr>
-<td>SVG</td>
-<td><img src="stack.svg#SVG" width="220.00000pt" height="250.00000pt"></td>
-<td><textarea cols="40" rows="3">&lt;img src=&quot;stack.svg#SVG&quot; width=&quot;220.00000pt&quot; height=&quot;250.00000pt&quot;&gt;</textarea></td>
-</tr>
-<tr>
-<td>Variable_Resistor</td>
-<td><img src="stack.svg#Variable_Resistor" width="700px" height="400px"></td>
-<td><textarea cols="40" rows="3">&lt;img src=&quot;stack.svg#Variable_Resistor&quot; width=&quot;700px&quot; height=&quot;400px&quot;&gt;</textarea></td>
-</tr>
-</tbody>
-<table>
-<thead><tr>
-<th>Name</th>
-<th>Background</th>
-<th>Code</th>
-</tr></thead>
-<tbody>
-<tr>
-<td>Soccer_ball_animated</td>
 <td><div style="background: transparent url(stack.svg#Soccer_ball_animated) no-repeat top left; width: 150; height: 150;"></div></td>
 <td><textarea cols="40" rows="3">&lt;div style=&quot;background: transparent url(stack.svg#Soccer_ball_animated) no-repeat top left; width: 150; height: 150;&quot;&gt;&lt;/div&gt;</textarea></td>
 </tr>
 <tr>
 <td>SVG</td>
-<td><div class="svg">&nbsp;</div></td>
+<td><img src="stack.svg#SVG" width="220.00000pt" height="250.00000pt"></td>
+<td><textarea cols="40" rows="3">&lt;img src=&quot;stack.svg#SVG&quot; width=&quot;220.00000pt&quot; height=&quot;250.00000pt&quot;&gt;</textarea></td>
+<td><div style="background: transparent url(stack.svg#SVG) no-repeat top left; width: 220.00000pt; height: 250.00000pt;"></div></td>
 <td><textarea cols="40" rows="3">&lt;div style=&quot;background: transparent url(stack.svg#SVG) no-repeat top left; width: 220.00000pt; height: 250.00000pt;&quot;&gt;&lt;/div&gt;</textarea></td>
 </tr>
 <tr>
 <td>Variable_Resistor</td>
+<td><img src="stack.svg#Variable_Resistor" width="700px" height="400px"></td>
+<td><textarea cols="40" rows="3">&lt;img src=&quot;stack.svg#Variable_Resistor&quot; width=&quot;700px&quot; height=&quot;400px&quot;&gt;</textarea></td>
 <td><div style="background: transparent url(stack.svg#Variable_Resistor) no-repeat top left; width: 700px; height: 400px;"></div></td>
 <td><textarea cols="40" rows="3">&lt;div style=&quot;background: transparent url(stack.svg#Variable_Resistor) no-repeat top left; width: 700px; height: 400px;&quot;&gt;&lt;/div&gt;</textarea></td>
 </tr>
 </tbody>
+</table>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script src="/fixsvgstack.jquery.js"></script>
 <script>
 (function($) {
-  $(document).ready(function() {
-    $('div').fixSVGStackBackground();
-    $('img').fixSVGStack();
-  });
+	$(document).ready(function() {
+		$('div').fixSVGStackBackground();
+		$('img').fixSVGStack();
+	});
 })(jQuery);
 </script>
+<td><textarea cols="40" rows="3">&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;/fixsvgstack.jquery.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+(function($) {
+	$(document).ready(function() {
+		$(&#39;div&#39;).fixSVGStackBackground();
+		$(&#39;img&#39;).fixSVGStack();
+	});
+})(jQuery);
+&lt;/script&gt;</textarea></td>
 </body>
 </html>
