@@ -1,16 +1,29 @@
 {
   "name": "svg-stacker",
   "version": "0.0.1",
-  "homepage": "https://github.com/preciousforever/SVG-Stacker",
+  "description": "An experimental tool that turns a folder of SVG files into a single SVG Stack",
+  "keywords": [
+    "svg",
+    "stack",
+    "assets"
+  ],
+  "homepage": "http://github.com/preciousforever/SVG-Stacker",
   "author": {
     "name": "Michael Schieben",
     "email": "michael@precious-forever.com",
     "url": "http://rockitbaby.de"
   },
+  "repository": {
+    "type" : "git",
+    "url" : "http://github.com/preciousforever/SVG-Stacker"
+  },
   "engines": {
     "node": "0.6.x"
   },
   "dependencies": {
+    "commander": "1.0.x",
     "libxmljs-easy": "0.1.x"
-  }
+  },
+  "bugs": "http://github.com/preciousforever/SVG-Stacker/issues",
+  "bin": "./bin/svg-stacker"
 }

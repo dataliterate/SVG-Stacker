@@ -1,5 +1,8 @@
+#!/usr/bin/env node
+
 var fs = require('fs')
   , path = require('path')
+  , program = require('commander')
   , easy = require('libxmljs-easy')
   /* -- internal */
   , stack = []
@@ -7,6 +10,27 @@ var fs = require('fs')
   , sourceDir = path.normalize('./')
   , targetDir = null
   ;
+
+program
+  .version('0.0.1')
+  .option('-D, --no-demo', 'disables creation of demo files')
+  .option('-s, --source [./]', 'source directory: location of svg files [./]', './')
+  .option('-t, --target [./stack]', 'target directory: location for stack.svg and demo files [SOURCE_DIR/stack]', null)
+  ;
+
+program.on('--help', function(){
+  console.log('  Examples:');
+  console.log('');
+  console.log('    $ svg-stacker');
+  console.log('        reads from working directoy, creates stack.svg in folder ./stack')
+  console.log('    $ svg-stacker -s SOURCE_DIR');
+  console.log('        reads from SOURCE_DIR, creates stack.svg in folder SOURCE_DIR/stack')
+  console.log('    $ svg-stacker -s SOURCE_DIR -t TARGET_DIR');
+  console.log('        reads from SOURCE_DIR, creates stack.svg in folder TARGET_DIR')
+  console.log('');
+});
+
+program.parse(process.argv);
 
 function addToStack(file) {
 
@@ -26,7 +50,7 @@ function addToStack(file) {
   });
 }
 
-function outputSvg() {
+function outputSvg(cb) {
   
   var svg = [];
   svg.push('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">');
@@ -48,10 +72,11 @@ function outputSvg() {
 
   var svgText = svg.join("\n");
   
-  var filename = targetDir + '/stack.svg';
+  var filename = targetDir + 'stack.svg';
   fs.writeFile(filename, svgText, function(err) {
     if (err) throw err;
-    console.log("SVG Stack saved: " + filename);
+    console.log("    SVG Stack saved: " + filename);
+    cb();
   });
   
 }
@@ -59,7 +84,7 @@ function outputSvg() {
 
 function readSourceDir(cb) {
 
-  console.log("Reading " + sourceDir);
+  console.log("    Reading " + sourceDir);
 
   fs.readdir(sourceDir, function(err, list) {
     if (err) throw err;
@@ -74,9 +99,14 @@ function readSourceDir(cb) {
       i++;
     });
     if(i == 0) {
-      console.log("No SVG Files found in " + sourceDir);
-      console.log("svg-stacker SRC_DIR TARGET_DIR");
+      console.log("    Error: no SVG Files found in " + sourceDir);
+      console.log("");
+      console.log("  Type: ");
+      console.log("        svg-stacker --help");
+      console.log("");
     } else {
+      console.log("    " + stack.length + " items stacked");
+      console.log("");
       cb();
     }
   });
@@ -84,11 +114,11 @@ function readSourceDir(cb) {
 
 function htmlEscape(str) {
     return String(str)
-            .replace(/&/g, '&amp;')
-            .replace(/"/g, '&quot;')
-            .replace(/'/g, '&#39;')
-            .replace(/</g, '&lt;')
-            .replace(/>/g, '&gt;');
+      .replace(/&/g, '&amp;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;');
 }
 
 function outputHTML(demo, name) {
@@ -183,24 +213,24 @@ function outputHTML(demo, name) {
   
   var htmlText = html.join("\n");
   
-  var filename = targetDir + '/stack-demo-' + name + '.html';
-  fs.writeFile(targetDir + '/stack-demo-' + name + '.html', htmlText, function(err) {
+  var filename = targetDir + 'stack-demo-' + name + '.html';
+  fs.writeFileSync(filename, htmlText, 'utf-8');
+  console.log("    HTML-Demo saved: " + filename);
+  /*
+  function(err) {
     if (err) throw err;
-    console.log("HTML-Demo saved: " + filename);
+    console.log("    HTML-Demo saved: " + filename);
   });
+ */
 }
 
+sourceDir = path.normalize(program.source + '/');
 
-// read command line arguments
-if(process.argv.length == 4) {
-  sourceDir = path.normalize(process.argv[2]);
-  targetDir = path.normalize(process.argv[3]);
-} else if (process.argv.length == 3) {
-  sourceDir = path.normalize(process.argv[2]);
+if(program.target !== null) {
+  targetDir = path.normalize(program.target + '/');
 }
-
-if(targetDir == null) {
-  targetDir = sourceDir + '/stack';
+if(targetDir === null) {
+  targetDir = sourceDir + 'stack/';
 }
 
 // create target directory
@@ -208,16 +238,29 @@ if (!path.existsSync(targetDir)) {
   fs.mkdirSync(targetDir);
 }
 
+console.log('');
+console.log('  SVG Stacker');
+console.log('  -----------');
+console.log('');
+
 readSourceDir(function() {
 
-  outputSvg();
+  outputSvg(function() {
+    if(program.demo) {
+      console.log('');
+      outputHTML({background: true}, 'background');
+      outputHTML({object: true}, 'object');
+      outputHTML({embed: true}, 'embed');
+      outputHTML({iframe: true}, 'iframe');
+      outputHTML({img: true}, 'img');
+      outputHTML({jsfix: true}, 'jsfix');
+      outputHTML({object: true, embed: true, iframe: true, background: true, img: true}, 'all');
+    }
+    console.log('');
+    console.log('  Done.');
+    console.log('');
+  });
 
-  outputHTML({background: true}, 'background');
-  outputHTML({object: true}, 'object');
-  outputHTML({embed: true}, 'embed');
-  outputHTML({iframe: true}, 'iframe');
-  outputHTML({img: true}, 'img');
-  outputHTML({jsfix: true}, 'jsfix');
-  outputHTML({object: true, embed: true, iframe: true, background: true, img: true}, 'all');
+
 
 });
