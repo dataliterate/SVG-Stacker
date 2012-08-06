@@ -22,11 +22,11 @@ program.on('--help', function(){
   console.log('  Examples:');
   console.log('');
   console.log('    $ svg-stacker');
-  console.log('        reads from working directoy, creates stack.svg in folder ./stack')
+  console.log('        reads from working directoy, creates stack.svg in ./stack')
   console.log('    $ svg-stacker -s SOURCE_DIR');
-  console.log('        reads from SOURCE_DIR, creates stack.svg in folder SOURCE_DIR/stack')
+  console.log('        reads from SOURCE_DIR, creates stack.svg in SOURCE_DIR/stack')
   console.log('    $ svg-stacker -s SOURCE_DIR -t TARGET_DIR');
-  console.log('        reads from SOURCE_DIR, creates stack.svg in folder TARGET_DIR')
+  console.log('        reads from SOURCE_DIR, creates stack.svg in TARGET_DIR')
   console.log('');
 });
 
