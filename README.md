@@ -10,6 +10,13 @@ The project contains three example stacks based icons of the famous [Tango Icon 
 
 I created SVG Stacker to explore the power of the SVG Stack concept and test filesize, performance and browser-support.
 
+Installation & Usage
+-----------
+```
+npm install svg-stacker -g
+svg-stacker -s SOURCE_DIR -t TARGET_DIR
+```
+
 Example Stacks
 -----------
 * [Different Sizes, all embed techniques](http://preciousforever.github.com/SVG-Stacker/examples/wikipedia/commons/stack/stack-demo-all.html)
