@@ -6,7 +6,7 @@
   // The fix is for webkit browsers only
   // [https://bugs.webkit.org/show_bug.cgi?id=91790]()
 
-  if(!$.browser.webkit) {
+  if(!(/WebKit/.test(navigator.userAgent))) {
     // return functions that do nothing but support chaining
     $.fn.fixSVGStack = function() { return this; };
     $.fn.fixSVGStackBackground = function() { return this; };
