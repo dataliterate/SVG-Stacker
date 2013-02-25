@@ -12,7 +12,7 @@ var fs = require('fs')
   ;
 
 program
-  .version('0.0.1')
+  .version('0.0.2')
   .option('-D, --no-demo', 'disables creation of demo files')
   .option('-s, --source [./]', 'source directory: location of svg files [./]', './')
   .option('-t, --target [./stack]', 'target directory: location for stack.svg and demo files [SOURCE_DIR/stack]', null)

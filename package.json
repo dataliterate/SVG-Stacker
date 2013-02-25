@@ -1,6 +1,6 @@
 {
   "name": "svg-stacker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An experimental tool that turns a folder of SVG files into a single SVG Stack",
   "keywords": [
     "svg",
@@ -18,7 +18,7 @@
     "url" : "http://github.com/preciousforever/SVG-Stacker"
   },
   "engines": {
-    "node": "0.6.x"
+    "node": ">0.8.x"
   },
   "dependencies": {
     "commander": "1.0.x",
