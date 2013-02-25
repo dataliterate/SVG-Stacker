@@ -29,42 +29,56 @@
   // The Fix
   // ----------
 
-  // Reads SVG Stack via Ajax and returns one element as base64 encoded data-uri.
+  // Caches XML of SVG Elements (less parsing)
+  var cache = {};
+
+  // Reads SVG Stack via Ajax and returns one element encoded data-uri.
+  var i = 0;
   function getdataURIFromStack(url, cb) {
+
+    if(url in cache) {
+      cb(cache[url]);
+    }
 
     // `url` must be in the form filename.svg#id
     var parts = url.split('#');
     if(parts.length !== 2) {
-      cb(null);
+      cb(false);
     }
-    // Ajax request should get data from browser cache
-    // (needs to be verified)
+    
+    var processStack = function(xmlText) {
+      
+      var xml = (new window.DOMParser()).parseFromString(xmlText, "text/xml")
+      // `parts[1]` contains id
+      var svg = xml.getElementById(parts[1]);
+      if(svg == null) {
+        cache[url] = false;
+        cb(false);
+      }
+      // iOS Safari fix:
+      // Firefox uses viewBox and can't scale SVGs when width and height
+      // attributes are defined.
+      // Safari on iOS needs width and height to scale properly
+      var viewBox = svg.getAttribute('viewBox');
+      if(viewBox && (viewBoxData = viewBox.split(' ')).length == 4) {
+        svg.setAttribute('width', viewBoxData[2]);
+        svg.setAttribute('height', viewBoxData[3]);
+      }
+
+      var svgString = (new XMLSerializer()).serializeToString(svg);
+      var dataURI = 'data:image/svg+xml;utf-8,' + escape(svgString);
+      cache[url] = dataURI;
+      cb(dataURI);
+    }
+
+    // Ajax request, browser handles caching
     $.ajax({
         // `parts[0]` contains filename.svg
         url: parts[0],
+        cache: true,
         // Read SVG as 'text', jQuerys XML Parsing is broken with SVGs
-        dataType: 'text'
-      })
-      .done(function(xmlText, status, res) {
-        var xml = (new window.DOMParser()).parseFromString(xmlText, "text/xml")
-        // `parts[1]` contains id
-        var svg = xml.getElementById(parts[1]);
-        if(svg == null) {
-          return;
-        }
-        // iOS Safari fix:
-        // Firefox uses viewBox and can't scale SVGs when width and height
-        // attributes are defined.
-        // Safari on iOS needs width and height to scale properly
-        var viewBox = svg.getAttribute('viewBox');
-        if(viewBox && (viewBoxData = viewBox.split(' ')).length == 4) {
-          svg.setAttribute('width', viewBoxData[2]);
-          svg.setAttribute('height', viewBoxData[3]);
-        }
-
-        var svgString = (new XMLSerializer()).serializeToString(svg);
-        var dataURI = 'data:image/svg+xml;utf-8,' + escape(svgString);
-        cb(dataURI);
+        dataType: 'text',
+        success: processStack
       });
   }
 
@@ -97,6 +111,9 @@
       }
 
       getdataURIFromStack(url, function(dataURI) {
+        if(dataURI === false) {
+          return;
+        }
         // Replace background-image url with dataURI
         $el.css('background-image', 'url(' + dataURI + ')');
       });
@@ -117,6 +134,9 @@
         return;
       }
       getdataURIFromStack(url, function(dataURI) {
+        if(dataURI === false) {
+          return;
+        }
         // Replace src with dataURI
         $el.attr('src', dataURI);
       });
