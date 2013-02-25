@@ -49,6 +49,19 @@
         var xml = (new window.DOMParser()).parseFromString(xmlText, "text/xml")
         // `parts[1]` contains id
         var svg = xml.getElementById(parts[1]);
+        if(svg == null) {
+          return;
+        }
+        // iOS Safari fix:
+        // Firefox uses viewBox and can't scale SVGs when width and height
+        // attributes are defined.
+        // Safari on iOS needs width and height to scale properly
+        var viewBox = svg.getAttribute('viewBox');
+        if(viewBox && (viewBoxData = viewBox.split(' ')).length == 4) {
+          svg.setAttribute('width', viewBoxData[2]);
+          svg.setAttribute('height', viewBoxData[3]);
+        }
+
         var svgString = (new XMLSerializer()).serializeToString(svg);
         var dataURI = 'data:image/svg+xml;utf-8,' + escape(svgString);
         cb(dataURI);
