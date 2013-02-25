@@ -234,7 +234,7 @@ if(targetDir === null) {
 }
 
 // create target directory
-if (!path.existsSync(targetDir)) {
+if (!fs.existsSync(targetDir)) {
   fs.mkdirSync(targetDir);
 }
 
