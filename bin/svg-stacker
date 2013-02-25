@@ -123,7 +123,7 @@ function htmlEscape(str) {
 
 function outputHTML(demo, name) {
   var html = [];
-  html.push('<html><head><title>SVG Stack</title><style>body { font-family: Helvetica; } table { width: 100%; text-align: left; }</style></head>');
+  html.push('<html><head><title>SVG Stack</title><style>body { font-family: Helvetica; background-color: #CCC; } table { width: 100%; text-align: left; }</style></head>');
   html.push('<body>');
   html.push('<h1>SVG Stack</h1>');
   html.push('<p>created with an early demo of https://github.com/preciousforever/svg-stacker</p>');
