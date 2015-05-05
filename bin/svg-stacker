@@ -16,6 +16,7 @@ program
   .option('-D, --no-demo', 'disables creation of demo files')
   .option('-s, --source [./]', 'source directory: location of svg files [./]', './')
   .option('-t, --target [./stack]', 'target directory: location for stack.svg and demo files [SOURCE_DIR/stack]', null)
+  .option('-h --huge', 'allows huge SVG files to be stacked')
   ;
 
 program.on('--help', function(){
@@ -36,7 +37,13 @@ function addToStack(file) {
 
   var id = path.basename(file, '.svg');
   var svgXml = fs.readFileSync(file, 'utf-8');
-  var svg = easy.parse(svgXml);
+  var options = {};
+
+  if ( program.huge ) {
+     options['huge'] = true;
+  }
+
+  var svg = easy.parse(svgXml, options);
 
   // manipulate svg
   svg.$class = 'i';
