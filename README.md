@@ -38,7 +38,7 @@ Simon 'Simurai' first described 'SVG Stacks' in March 2012. It's a technique to 
 
 The ':target'-technique was first introduced by [@erikdahlstrom](https://twitter.com/erikdahlstrom) – it's worth checking out his [SVG Code snippets](http://xn--dahlstrm-t4a.net/svg/).
 
-Wekit Fix
+Webkit Fix
 -----------
 Read [annotated source](http://preciousforever.github.com/SVG-Stacker/docs/fixsvgstack.jquery.html).
 
