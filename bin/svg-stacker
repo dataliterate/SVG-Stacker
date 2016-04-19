@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env node --harmony-proxies
 
 var fs = require('fs')
   , path = require('path')
@@ -58,7 +58,7 @@ function addToStack(file) {
 }
 
 function outputSvg(cb) {
-  
+
   var svg = [];
   svg.push('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">');
 
@@ -72,20 +72,20 @@ function outputSvg(cb) {
 
   // need to make same ids from different files unique
   stack.forEach(function(icon) {
-    svg.push(icon.svg);  
+    svg.push(icon.svg);
   });
-  
-  svg.push('</svg>');  
+
+  svg.push('</svg>');
 
   var svgText = svg.join("\n");
-  
+
   var filename = targetDir + 'stack.svg';
   fs.writeFile(filename, svgText, function(err) {
     if (err) throw err;
     console.log("    SVG Stack saved: " + filename);
     cb();
   });
-  
+
 }
 
 
@@ -160,7 +160,7 @@ function outputHTML(demo, name) {
   html.push('</tr></thead>');
   html.push('<tbody>');
   stack.forEach(function(icon) {
-    
+
     var url = 'stack.svg#' + icon.id;
     var code = '';
     html.push('<tr>');
@@ -187,13 +187,13 @@ function outputHTML(demo, name) {
       html.push('<td><textarea cols="40" rows="3">' + htmlEscape(code) + '</textarea></td>');
     }
     if(demo.background || demo.jsfix) {
-      code = '<div style="background: transparent url(' + url + ') no-repeat top left; width: ' + icon.w + '; height: ' + icon.h + ';"></div>' 
+      code = '<div style="background: transparent url(' + url + ') no-repeat top left; width: ' + icon.w + '; height: ' + icon.h + ';"></div>'
       html.push('<td>' + code + '</td>');
       html.push('<td><textarea cols="40" rows="3">' + htmlEscape(code) + '</textarea></td>');
     }
     //html.push(icon.svg);
     html.push('</tr>');
-    
+
   });
   html.push('</tbody>');
   html.push('</table>');
@@ -217,9 +217,9 @@ function outputHTML(demo, name) {
 
   html.push('</body>');
   html.push('</html>');
-  
+
   var htmlText = html.join("\n");
-  
+
   var filename = targetDir + 'stack-demo-' + name + '.html';
   fs.writeFileSync(filename, htmlText, 'utf-8');
   console.log("    HTML-Demo saved: " + filename);
