@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "commander": "1.0.x",
-    "libxmljs-easy": "0.1.2"
+    "libxmljs-easy": "0.2.1"
   },
   "bugs": "http://github.com/preciousforever/SVG-Stacker/issues",
   "bin": "./bin/svg-stacker"
