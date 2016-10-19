@@ -6,7 +6,9 @@
   // The fix is for webkit browsers only
   // [https://bugs.webkit.org/show_bug.cgi?id=91790]()
 
-  if(!(/WebKit/.test(navigator.userAgent))) {
+  if(!(/WebKit/.test(navigator.userAgent) &&
+       (!(/Chrome\/[0-9]+\./).test(navigator.userAgent) || parseInt(navigator.userAgent.match(/Chrome\/([0-9]+)\./)[1], 10) < 50)
+      )) {
     // return functions that do nothing but support chaining
     $.fn.fixSVGStack = function() { return this; };
     $.fn.fixSVGStackBackground = function() { return this; };
