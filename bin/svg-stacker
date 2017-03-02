@@ -1,4 +1,4 @@
-#!/usr/bin/env node --harmony-proxies
+#!/usr/bin/env node
 
 var fs = require('fs')
   , path = require('path')
@@ -48,7 +48,7 @@ function addToStack(file) {
     
     // manipulate svg
     result.svg.$.class = 'i';
-    result.svg.$.class = id;
+    result.svg.$.id = id;
     
     stack.push({
        id: id,
