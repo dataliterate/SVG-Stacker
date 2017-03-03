@@ -49,10 +49,12 @@ function addToStack(file) {
     // manipulate svg
     result.svg.$.class = 'i';
     result.svg.$.id = id;
+    delete result.svg.$['xmlns'];
+    delete result.svg.$['xmlns:xlink'];
     
     stack.push({
        id: id,
-       svg: builder.buildObject(result.svg).replace('xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"', ''),
+       svg: builder.buildObject(result.svg),
        w: result.svg.$.width,
        h: result.svg.$.height
     });
