@@ -39,6 +39,7 @@ function addToStack(file) {
   var svgXml = fs.readFileSync(file, 'utf-8');
   var parser = new xml2js.Parser();
   var builder = new xml2js.Builder({headless: true, rootName: 'svg'});
+  var options = {};
 
   if ( program.huge ) {
      options['huge'] = true;
